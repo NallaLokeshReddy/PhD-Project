@@ -1,0 +1,821 @@
+\begin{thebibliography}{100}
+
+\bibitem{ACKERMANN2001195}
+T.~Ackermann, G.~Andersson, and L.~Söder, ``Distributed generation: a
+  definition,'' {\em Electric Power Systems Research}, vol.~57, no.~3,
+  pp.~195--204, 2001.
+
+\bibitem{ghosh2002power}
+A.~Ghosh and G.~Ledwich, {\em Power quality enhancement using custom power
+  devices}.
+\newblock Kluwer Academic Publications, 2002.
+
+\bibitem{9848440}
+``{IEEE} standard for harmonic control in electric power systems,'' {\em IEEE
+  Std 519-2022 (Revision of IEEE Std 519-2014)}, pp.~1--31, 2022.
+
+\bibitem{1268201}
+J.~Das, ``Passive filters - potentialities and limitations,'' {\em IEEE
+  Transactions on Industry Applications}, vol.~40, pp.~232--241, Jan.-Feb.
+  2004.
+
+\bibitem{1545766}
+H.~Akagi, ``Active harmonic filters,'' {\em Proceedings of the IEEE}, vol.~93,
+  no.~12, pp.~2128--2141, 2005.
+
+\bibitem{4074559}
+H.~Sasaki and T.~Machida, ``A new method to eliminate {AC} harmonic currents by
+  magnetic flux compensation-considerations on basic design,'' {\em IEEE
+  Transactions on Power Apparatus and Systems,}, vol.~PAS-90, pp.~2009--2019,
+  Sept. 1971.
+
+\bibitem{1601573}
+H.~Peterson, N.~Mohan, and R.~Boom, ``Superconductive energy storage
+  inductor-converter units for power systems,'' {\em IEEE Transactions on Power
+  Apparatus and Systems}, vol.~94, pp.~1337--1348, July 1975.
+
+\bibitem{gyugyi1976active}
+L.~Gyugyi and E.~Strycula, ``Active {AC} power filters,'' in {\em IEEE
+  Industrial Application Annual Meeting}, vol.~19, pp.~529--535, 1976.
+
+\bibitem{mohan1977active}
+N.~Mohan, H.~Peterson, W.~Long, G.~Dreifuerst, and J.~Vithayathil, ``Active
+  filters for {AC} harmonic suppression,'' in {\em IEEE/PES Winter Meeting},
+  pp.~168--174, 1977.
+
+\bibitem{nastran1994active}
+J.~Nastran, R.~Cajhen, M.~Seliger, and P.~Jereb, ``Active power filter for
+  nonlinear {AC} loads,'' {\em IEEE Transactions on Power Electronics}, vol.~9,
+  no.~1, pp.~92--96, 1994.
+
+\bibitem{torrey1995single}
+D.~Torrey and A.~Al-Zamel, ``Single-phase active power filters for multiple
+  nonlinear loads,'' {\em IEEE Transactions on Power Electronics}, vol.~10,
+  no.~3, pp.~263--272, 1995.
+
+\bibitem{hafner1997shunt}
+J.~Hafner, M.~Aredes, and K.~Heumann, ``A shunt active power filter applied to
+  high voltage distribution lines,'' {\em IEEE Transactions on Power Delivery},
+  vol.~12, no.~1, pp.~266--272, 1997.
+
+\bibitem{moran1989line}
+S.~Moran, ``A line voltage regulator/conditioner for harmonic-sensitive load
+  isolation,'' in {\em IEEE Industry Applications Society Annual Meeting,
+  Conference Record of the 1989}, pp.~947--951, Oct. 1989.
+
+\bibitem{387140}
+N.~Hingorani, ``Introducing custom power,'' {\em IEEE Spectrum}, vol.~32,
+  pp.~41--48, June 1995.
+
+\bibitem{woodley1999experience}
+N.~Woodley, L.~Morgan, and A.~Sundaram, ``Experience with an inverter-based
+  dynamic voltage restorer,'' {\em IEEE Transactions on Power Delivery},
+  vol.~14, no.~3, pp.~1181--1186, 1999.
+
+\bibitem{662847}
+H.~Fujita and H.~Akagi, ``The unified power quality conditioner: the
+  integration of series and shunt-active filters,'' {\em IEEE Transactions on
+  Power Electronics}, vol.~13, pp.~315--322, Mar. 1998.
+
+\bibitem{chen2000unified}
+Y.~Chen, X.~Zha, J.~Wang, H.~Liu, J.~Sun, and H.~Tang, ``Unified power quality
+  conditioner {(UPQC)}: The theory, modeling and application,'' in {\em IEEE
+  proceedings of International Conference on Power System Technology, 2000
+  (PowerCon 2000)}, vol.~3, pp.~1329--1333, 2000.
+
+\bibitem{tolbert2000multilevel}
+L.~Tolbert, F.~Peng, and T.~Habetler, ``A multilevel converter-based universal
+  power conditioner,'' {\em IEEE Transactions on Industry Applications},
+  vol.~36, no.~2, pp.~596--603, 2000.
+
+\bibitem{mwinyiwiwa2000multiterminal}
+B.~Mwinyiwiwa, B.~Lu, and B.~Ooi, ``Multiterminal unified power flow
+  controller,'' {\em IEEE Transactions on Power Electronics}, vol.~15, no.~6,
+  pp.~1088--1093, 2000.
+
+\bibitem{ghosh2001unified}
+A.~Ghosh and G.~Ledwich, ``A unified power quality conditioner {(UPQC)} for
+  simultaneous voltage and current compensation,'' {\em Electric power systems
+  research}, vol.~59, no.~1, pp.~55--63, 2001.
+
+\bibitem{libano1997simplified}
+F.~Libano, J.~Cobos, and J.~Uceda, ``Simplified control strategy for hybrid
+  active filters,'' in {\em 28th Annual IEEE Power Electronics Specialists
+  Conference, 1997}, vol.~2, pp.~1102--1108, 1997.
+
+\bibitem{fujita2000hybrid}
+H.~Fujita, T.~Yamasaki, and H.~Akagi, ``A hybrid active filter for damping of
+  harmonic resonance in industrial power systems,'' {\em IEEE Transactions on
+  Power Electronics}, vol.~15, no.~2, pp.~215--222, 2000.
+
+\bibitem{peng1993compensation}
+F.~Peng, H.~Akagi, and A.~Nabae, ``Compensation characteristics of the combined
+  system of shunt passive and series active filters,'' {\em IEEE Transactions
+  on Industry Applications}, vol.~29, no.~1, pp.~144--152, 1993.
+
+\bibitem{akagi1984instantaneous}
+H.~Akagi, Y.~Kanazawa, and A.~Nabae, ``Instantaneous reactive power
+  compensators comprising switching devices without energy storage
+  components,'' {\em IEEE Transactions on Industry Applications}, no.~3,
+  pp.~625--630, 1984.
+
+\bibitem{akagi1986control}
+H.~Akagi, A.~Nabae, and S.~Atoh, ``Control strategy of active power filters
+  using multiple voltage-source {PWM} converters,'' {\em IEEE Transactions on
+  Industry Applications}, no.~3, pp.~460--465, 1986.
+
+\bibitem{akagi1983generalized}
+H.~Akagi, Y.~Kanazawa, K.~Fujita, and A.~Nabae, ``Generalized theory of
+  instantaneous reactive power and its application,'' {\em Electrical
+  engineering in Japan}, vol.~103, no.~4, pp.~58--66, 1983.
+
+\bibitem{peng1996generalized}
+F.~Peng and J.~Lai, ``Generalized instantaneous reactive power theory for
+  three-phase power systems,'' {\em IEEE Transactions on Instrumentation and
+  Measurement}, vol.~45, no.~1, pp.~293--297, 1996.
+
+\bibitem{1629027}
+M.~Liserre, R.~Teodorescu, and F.~Blaabjerg, ``Multiple harmonics control for
+  three-phase grid converter systems with the use of {PI-RES} current
+  controller in a rotating frame,'' {\em IEEE Transactions on Power
+  Electronics}, vol.~21, no.~3, pp.~836--841, 2006.
+
+\bibitem{ghosh2000use}
+A.~Ghosh and A.~Joshi, ``The use of instantaneous symmetrical components for
+  balancing a delta connected load and power factor correction,'' {\em Electric
+  Power Systems Research}, vol.~54, no.~1, pp.~67--74, 2000.
+
+\bibitem{6556997}
+P.~Jayaprakash, B.~Singh, D.~P. Kothari, A.~Chandra, and K.~Al-Haddad,
+  ``Control of reduced-rating dynamic voltage restorer with a battery energy
+  storage system,'' {\em IEEE Transactions on Industry Applications}, vol.~50,
+  no.~2, pp.~1295--1303, 2014.
+
+\bibitem{1208380}
+D.~Vilathgamuwa, A.~Perera, and S.~Choi, ``Voltage sag compensation with energy
+  optimized dynamic voltage restorer,'' {\em IEEE Transactions on Power
+  Delivery}, vol.~18, no.~3, pp.~928--936, 2003.
+
+\bibitem{1510825}
+J.~Nielsen and F.~Blaabjerg, ``A detailed comparison of system topologies for
+  dynamic voltage restorers,'' {\em IEEE Transactions on Industry
+  Applications}, vol.~41, no.~5, pp.~1272--1280, 2005.
+
+\bibitem{8400555}
+M.~Pradhan and {Mahesh K. Mishra}, ``Dual {$P$-$Q$} theory based
+  energy-optimized dynamic voltage restorer for power quality improvement in a
+  distribution system,'' {\em IEEE Transactions on Industrial Electronics},
+  vol.~66, no.~4, pp.~2946--2955, 2019.
+
+\bibitem{8170301}
+X.~Chen, L.~Yan, X.~Zhou, and H.~Sun, ``A novel {DVR-ESS}-embedded wind-energy
+  conversion system,'' {\em IEEE Transactions on Sustainable Energy}, vol.~9,
+  no.~3, pp.~1265--1274, 2018.
+
+\bibitem{8345740}
+A.~Karthikeyan, D.~G.~A. Krishna, S.~Kumar, B.~V. Perumal, and S.~Mishra,
+  ``Dual role {CDSC}-based dual vector control for effective operation of {DVR}
+  with harmonic mitigation,'' {\em IEEE Transactions on Industrial
+  Electronics}, vol.~66, no.~1, pp.~4--13, 2019.
+
+\bibitem{4305325}
+Y.~W. Li, P.~C. Loh, F.~Blaabjerg, and D.~Vilathgamuwa, ``Investigation and
+  improvement of transient response of {DVR} at medium voltage level,'' {\em
+  IEEE Transactions on Industry Applications}, vol.~43, pp.~1309--1319,
+  Sept.-Oct. 2007.
+
+\bibitem{5398914}
+A.~G. Yepes, F.~D. Freijedo, J.~Doval-Gandoy, O.~Lopez, J.~Malvar, and
+  P.~Fernandez-Comesana, ``Effects of discretization methods on the performance
+  of resonant controllers,'' {\em IEEE Transactions on Power Electronics},
+  vol.~25, no.~7, pp.~1692--1712, 2010.
+
+\bibitem{6880399}
+L.~Herman, I.~Papic, and B.~Blazic, ``A proportional-resonant current
+  controller for selective harmonic compensation in a hybrid active power
+  filter,'' {\em IEEE Transactions on Power Delivery}, vol.~29, no.~5,
+  pp.~2055--2065, 2014.
+
+\bibitem{4158027}
+D.~M. Brod and D.~W. Novotny, ``Current control of {VSI}-{PWM} inverters,''
+  {\em IEEE Transactions on Industry Applications}, vol.~IA-21, pp.~562--570,
+  May 1985.
+
+\bibitem{malesani1990novel}
+L.~Malesani and P.~Tenti, ``A novel hysteresis control method for
+  current-controlled voltage-source {PWM} inverters with constant modulation
+  frequency,'' {\em IEEE Transactions on Industry Applications}, vol.~26,
+  no.~1, pp.~88--92, 1990.
+
+\bibitem{8846889}
+J.~Ye and H.~B. Gooi, ``Phase angle control based three-phase {DVR} with power
+  factor correction at point of common coupling,'' {\em Journal of Modern Power
+  Systems and Clean Energy}, vol.~8, no.~1, pp.~179--186, 2020.
+
+\bibitem{6939709}
+C.~Kumar and {Mahesh K. Mishra}, ``Predictive voltage control of
+  transformerless dynamic voltage restorer,'' {\em IEEE Transactions on
+  Industrial Electronics}, vol.~62, no.~5, pp.~2693--2697, 2015.
+
+\bibitem{9175195}
+A.~P. {Kumar}, G.~{Siva Kumar}, and D.~{Sreenivasarao}, ``Model predictive
+  control with constant switching frequency for four-leg {DSTATCOM} using
+  three-dimensional space vector modulation,'' {\em IET Generation,
+  Transmission \& Distribution}, vol.~14, no.~17, pp.~3571--3581, 2020.
+
+\bibitem{9108551}
+J.~{Lu}, M.~{Savaghebi}, A.~M. Y.~M. {Ghias}, X.~{Hou}, and J.~M. {Guerrero},
+  ``A reduced-order generalized proportional integral observer-based resonant
+  super-twisting sliding mode control for grid-connected power converters,''
+  {\em IEEE Transactions on Industrial Electronics}, vol.~68, no.~7,
+  pp.~5897--5908, 2021.
+
+\bibitem{8264745}
+J.~{Morales}, L.~G. {de Vicua}, R.~{Guzman}, M.~{Castilla}, and J.~{Miret},
+  ``Modeling and sliding mode control for three-phase active power filters
+  using the vector operation technique,'' {\em IEEE Transactions on Industrial
+  Electronics}, vol.~65, no.~9, pp.~6828--6838, 2018.
+
+\bibitem{6563653}
+Y.~Chen, G.~Wen, and Y.~Kang, ``Sliding mode pulsewidth modulation {(SMPWM)}
+  for nine-switch converter,'' in {\em 2013 IEEE International Symposium on
+  Industrial Electronics}, pp.~1--6, 2013.
+
+\bibitem{7776961}
+H.~Komurcugil and S.~Biricik, ``Time-varying and constant switching
+  frequency-based sliding-mode control methods for transformerless {DVR}
+  employing half-bridge {VSI},'' {\em IEEE Transactions on Industrial
+  Electronics}, vol.~64, no.~4, pp.~2570--2579, 2017.
+
+\bibitem{9264672}
+S.~Biricik, H.~Komurcugil, H.~Ahmed, and E.~Babaei, ``Super twisting sliding
+  mode control of {DVR} with frequency-adaptive brockett oscillator,'' {\em
+  IEEE Transactions on Industrial Electronics}, vol.~68, no.~11,
+  pp.~10730--10739, 2021.
+
+\bibitem{8466115}
+S.~Biricik, H.~Komurcugil, N.~D. Tuyen, and M.~Basu, ``Protection of sensitive
+  loads using sliding mode controlled three-phase {DVR} with adaptive notch
+  filter,'' {\em IEEE Transactions on Industrial Electronics}, vol.~66, no.~7,
+  pp.~5465--5475, 2019.
+
+\bibitem{7506128}
+S.~Biricik and H.~Komurcugil, ``Optimized sliding mode control to maximize
+  existence region for single-phase dynamic voltage restorers,'' {\em IEEE
+  Transactions on Industrial Informatics}, vol.~12, no.~4, pp.~1486--1497,
+  2016.
+
+\bibitem{6095377}
+V.~{Khadkikar}, ``Enhancing electric power quality using {UPQC}: A
+  comprehensive overview,'' {\em IEEE Transactions on Power Electronics},
+  vol.~27, pp.~2284--2297, May 2012.
+
+\bibitem{iet-pel.2010.0134}
+J.~{A.E. Leon}, {S.J. Amodeo} and {M.I. Valla}, ``Non-linear optimal controller
+  for unified power quality conditioners,'' {\em IET Power Electronics},
+  vol.~4, pp.~435--446(11), April 2011.
+
+\bibitem{5688329}
+V.~Khadkikar and A.~Chandra, ``{UPQC-S}: A novel concept of simultaneous
+  voltage sag/swell and load reactive power compensations utilizing series
+  inverter of {UPQC},'' {\em IEEE Transactions on Power Electronics}, vol.~26,
+  no.~9, pp.~2414--2425, 2011.
+
+\bibitem{5393074}
+I.~Axente, J.~N. Ganesh, M.~Basu, M.~F. Conlon, and K.~Gaughan, ``A 12-{kVA
+  DSP}-controlled laboratory prototype {UPQC} capable of mitigating unbalance
+  in source voltage and load current,'' {\em IEEE Transactions on Power
+  Electronics}, vol.~25, no.~6, pp.~1471--1479, 2010.
+
+\bibitem{5235743}
+M.~Brenna, R.~Faranda, and E.~Tironi, ``A new proposal for power quality and
+  custom power improvement: Open {UPQC},'' {\em IEEE Transactions on Power
+  Delivery}, vol.~24, pp.~2107--2116, Oct. 2009.
+
+\bibitem{5672403}
+M.~Kesler and E.~Ozdemir, ``Synchronous-reference-frame-based control method
+  for {UPQC} under unbalanced and distorted load conditions,'' {\em IEEE
+  Transactions on Industrial Electronics}, vol.~58, pp.~3967--3975, Sept. 2011.
+
+\bibitem{4483694}
+V.~Khadkikar and A.~Chandra, ``A new control philosophy for a unified power
+  quality conditioner ({UPQC}) to coordinate load-reactive power demand between
+  shunt and series inverters,'' {\em IEEE Transactions on Power Delivery},
+  vol.~23, pp.~2522--2534, Oct. 2008.
+
+\bibitem{4348103}
+T.~Kominami and Y.~Fujimoto, ``A novel nine-switch inverter for independent
+  control of two three-phase loads,'' in {\em 2007 IEEE Industry Applications
+  Annual Meeting}, pp.~2346--2350, 2007.
+
+\bibitem{5713844}
+L.~Zhang, P.~C. Loh, and F.~Gao, ``An integrated nine-switch power conditioner
+  for power quality enhancement and voltage sag mitigation,'' {\em IEEE
+  Transactions on Power Electronics}, vol.~27, no.~3, pp.~1177--1190, 2012.
+
+\bibitem{7018088}
+A.~M. Rauf and V.~Khadkikar, ``Integrated photovoltaic and dynamic voltage
+  restorer system configuration,'' {\em IEEE Transactions on Sustainable
+  Energy}, vol.~6, no.~2, pp.~400--410, 2015\color{black}.
+
+\bibitem{6301686}
+M.~Azizi, A.~Fatemi, M.~Mohamadian, and A.~Y. Varjani, ``Integrated solution
+  for microgrid power quality assurance,'' {\em IEEE Transactions on Energy
+  Conversion}, vol.~27, no.~4, pp.~992--1001, 2012.
+
+\bibitem{akagi1996new}
+H.~Akagi, ``New trends in active filters for power conditioning,'' {\em IEEE
+  Transactions on Industry Applications}, vol.~32, no.~6, pp.~1312--1322, 1996.
+
+\bibitem{1542327}
+Y.~Li, D.~Vilathgamuwa, and P.~C. Loh, ``Microgrid power quality enhancement
+  using a three-phase four-wire grid-interfacing compensator,'' {\em IEEE
+  Transactions on Industry Applications}, vol.~41, no.~6, pp.~1707--1719, 2005.
+
+\bibitem{1159928}
+{Mahesh K. Mishra, A. Ghosh and A. Joshi}, ``Operation of a {DSTATCOM} in
+  voltage control mode,'' {\em IEEE Transactions on Power Delivery}, vol.~18,
+  pp.~258--264, Jan 2003.
+
+\bibitem{6800136}
+{Chandan Kumar and Mahesh K. Mishra}, ``A voltage-controlled {DSTATCOM} for
+  power-quality improvement,'' {\em IEEE Transactions on Power Delivery},
+  vol.~29, pp.~1499--1507, June 2014.
+
+\bibitem{4762487}
+P.~{Jayaprakash}, B.~{Singh}, and D.~P. {Kothari}, ``Current mode control of
+  dynamic voltage restorer for power quality improvement in distribution
+  system,'' in {\em 2008 IEEE 2nd International Power and Energy Conference},
+  pp.~301--306, Dec 2008.
+
+\bibitem{1256407}
+A.~{Ghosh}, A.~K. {Jindal}, and A.~{Joshi}, ``Design of a capacitor-supported
+  dynamic voltage restorer {(DVR)} for unbalanced and distorted loads,'' {\em
+  IEEE Transactions on Power Delivery}, vol.~19, pp.~405--413, Jan 2004.
+
+\bibitem{1046880}
+A.~{Ghosh} and G.~{Ledwich}, ``Compensation of distribution system voltage
+  using {DVR},'' {\em IEEE Transactions on Power Delivery}, vol.~17,
+  pp.~1030--1036, Oct 2002.
+
+\bibitem{4342442}
+C.~Liu, B.~Wu, N.~Zargari, and D.~Xu, ``A novel three-phase three-leg {AC/AC}
+  converter using nine {IGBTs},'' in {\em 2007 IEEE Power Electronics
+  Specialists Conference}, pp.~2685--2690, 2007.
+
+\bibitem{4417438}
+C.~Liu, B.~Wu, N.~Zargari, and D.~Xu, ``A novel nine-switch {PWM}
+  rectifier-inverter topology for three-phase {UPS} applications,'' in {\em
+  2007 European Conference on Power Electronics and Applications}, pp.~1--10,
+  2007.
+
+\bibitem{5446393}
+S.~M. Dehghan, M.~Mohamadian, and A.~Yazdian, ``Hybrid electric vehicle based
+  on bidirectional {Z}-source nine-switch inverter,'' {\em IEEE Transactions on
+  Vehicular Technology}, vol.~59, no.~6, pp.~2641--2653, 2010.
+
+\bibitem{5754572}
+X.~Liu, P.~Wang, P.~C. Loh, and F.~Blaabjerg, ``A compact three-phase
+  single-input/dual-output matrix converter,'' {\em IEEE Transactions on
+  Industrial Electronics}, vol.~59, no.~1, pp.~6--16, 2012.
+
+\bibitem{5445017}
+F.~Gao, L.~Zhang, D.~Li, P.~C. Loh, Y.~Tang, and H.~Gao, ``Optimal pulsewidth
+  modulation of nine-switch converter,'' {\em IEEE Transactions on Power
+  Electronics}, vol.~25, no.~9, pp.~2331--2343, 2010.
+
+\bibitem{9547678}
+P.~R.~U. Guazzelli, S.~T. C. A.~d. Santos, A.~G. de~Castro, W.~C. d.~A.
+  Pereira, C.~M.~R. de~Oliveira, J.~R. B. d.~A. Monteiro, and M.~L. de~Aguiar,
+  ``Decoupled predictive current control with duty-cycle optimization of a
+  grid-tied nine-switch converter applied to an induction generator,'' {\em
+  IEEE Transactions on Power Electronics}, vol.~37, no.~3, pp.~2778--2789,
+  2022.
+
+\bibitem{5542338}
+L.~Zhang, P.~C. Loh, and F.~Gao, ``An integrated nine-switch power
+  conditioner,'' in {\em The 2010 International Power Electronics Conference -
+  ECCE ASIA -}, pp.~2663--2669, 2010.
+
+\bibitem{1185456}
+M.~Newman and D.~Holmes, ``A universal custom power conditioner {(UCPC)} with
+  selective harmonic voltage compensation,'' in {\em IEEE 2002 28th Annual
+  Conference of the Industrial Electronics Society. IECON 02}, vol.~2,
+  pp.~1261--1266 vol.2, 2002.
+
+\bibitem{IEE-EPA}
+R.~Teodorescu, ``Proportional-resonant controllers and filters for
+  grid-connected voltage-source converters,'' {\em IEE Proceedings - Electric
+  Power Applications}, vol.~153, pp.~750--762(12), September 2006.
+
+\bibitem{otto1978principles}
+R.~Otto, T.~Putman, and L.~Gyugyi, ``Principles and applications of static,
+  thyristor-controlled shunt compensators,'' {\em IEEE Transactions on Power
+  Apparatus and Systems}, no.~5, pp.~1935--1945, 1978.
+
+\bibitem{gyugyi1979reactive}
+L.~Gyugyi, ``Reactive power generation and control by thyristor circuits,''
+  {\em IEEE Transactions on Industry Applications}, no.~5, pp.~521--532, 1979.
+
+\bibitem{41770}
+G.-H. Choe and M.-H. Park, ``Analysis and control of active power filter with
+  optimized injection,'' {\em IEEE Transactions on Power Electronics}, vol.~4,
+  pp.~427--433, oct 1989.
+
+\bibitem{peng1998harmonic}
+F.~Peng, G.~Ott~Jr, and D.~Adams, ``Harmonic and reactive power compensation
+  based on the generalized instantaneous reactive power theory for three-phase
+  four-wire systems,'' {\em IEEE Transactions on Power Electronics}, vol.~13,
+  no.~6, pp.~1174--1181, 1998.
+
+\bibitem{ghosh1998new}
+A.~Ghosh and A.~Joshi, ``A new method for load balancing and power factor
+  correction using instantaneous symmetrical components,'' {\em IEEE Power
+  Engineering Review}, vol.~18, no.~9, pp.~60--61, 1998.
+
+\bibitem{847283}
+A.~Ghosh and A.~Joshi, ``A new approach to load balancing and power factor
+  correction in power distribution system,'' {\em IEEE Transactions on Power
+  Delivery}, vol.~15, pp.~417--422, Jan. 2000.
+
+\bibitem{Benhabib2005353}
+M.~Benhabib and S.~Saadate, ``New control approach for four-wire active power
+  filter based on the use of synchronous reference frame,'' {\em Electric Power
+  Systems Research}, vol.~73, no.~3, pp.~353--362, 2005.
+
+\bibitem{chen1993reactive}
+C.~Chen, C.~Lin, and C.~Huang, ``Reactive and harmonic current compensation for
+  unbalanced three-phase systems using the synchronous detection method,'' {\em
+  Electric Power Systems Research}, vol.~26, no.~3, pp.~163--170, 1993.
+
+\bibitem{4283506}
+L.~{Asiminoael}, F.~{Blaabjerg}, and S.~{Hansen}, ``Detection is key - harmonic
+  detection methods for active power filter applications,'' {\em IEEE Industry
+  Applications Magazine}, vol.~13, pp.~22--33, July 2007.
+
+\bibitem{Mahesh_Mishra}
+{Mahesh K. Mishra}, {\em Power Quality in Power Distribution Systems}.
+\newblock NPTEL, 2012. https://archive.nptel.ac.in/courses/108/106/108106025.
+
+\bibitem{akagi1999theory}
+H.~Akagi, S.~Ogasawara, and H.~Kim, ``The theory of instantaneous power in
+  three-phase four-wire systems: A comprehensive approach,'' in {\em IEEE
+  Industry Applications Conference, Thirty-Fourth IAS Annual Meeting}, vol.~1,
+  pp.~431--439, 1999.
+
+\bibitem{SrinivasBhaskar}
+{Srinivas Bhaskar Karanki}, {\em Topologies and Design of State Feedback
+  Controller for Custom Power Devices in Power Distribution System}.
+\newblock PhD thesis, IIT Madras, Chennai, India, Jan 2012.
+
+\bibitem{czarnecki2004some}
+L.~Czarnecki, ``On some misinterpretations of the instantaneous reactive power
+  pq theory,'' {\em IEEE Transactions on Power Electronics}, vol.~19, no.~3,
+  pp.~828--836, 2004.
+
+\bibitem{marques1998comparison}
+G.~Marques, ``A comparison of active power filter control methods in unbalanced
+  and non-sinusoidal conditions,'' in {\em Proceedings of the 24th Annual
+  Conference of the IEEE Industrial Electronics Society, IECON'98}, vol.~1,
+  pp.~444--449, 1998.
+
+\bibitem{cardenas2003comparative}
+V.~Cardenas, L.~Moran, A.~Bahamondes, and J.~Dixon, ``Comparative analysis of
+  real time reference generation techniques for four-wire shunt active power
+  filters,'' in {\em IEEE 34th Annual Power Electronics Specialist
+  Conference,PESC'03}, vol.~2, pp.~791--796, 2003.
+
+\bibitem{lyon1954transient}
+W.~Lyon, {\em The Transient Analysis of Alternating-Current Machinery}.
+\newblock The MIT press, 1954.
+
+\bibitem{4519806}
+{U. K. Rao}, {Mahesh K. Mishra}, and A.~Ghosh, ``Control strategies for load
+  compensation using instantaneous symmetrical component theory under different
+  supply voltages,'' {\em IEEE Transactions on Power Delivery}, vol.~23, no.~4,
+  pp.~2310--2317, 2008.
+
+\bibitem{mahesh2010dsp}
+{Mahesh K. Mishra}, K.~Karthikeyan, G.~Vincent, and S.~Sasitharan, ``A
+  {DSP}-based integrated hardware set-up for a {DSTATCOM}: Design, development,
+  and implementation issues,'' {\em IETE Journal of Research}, vol.~56, 2010.
+
+\bibitem{DVR}
+M.~{Farhadi-Kangarlu}, E.~{Babaei}, and B.~Frede, ``A comprehensive review of
+  dynamic voltage restorers,'' {\em International Journal of Electrical Power
+  and Energy Systems}, vol.~92, pp.~136--155, 2017.
+
+\bibitem{ManikPradhan}
+{Manik Pradhan}, {\em Power Quality Improvement in Distribution Power System
+  Using Dynamic Voltage Restorer}.
+\newblock PhD thesis, IIT Madras, Chennai, India, April 2018.
+
+\bibitem{605621}
+M.~Rahman, T.~Radwan, A.~Osheiba, and A.~Lashine, ``Analysis of current
+  controllers for voltage-source inverter,'' {\em IEEE Transactions on
+  Industrial Electronics}, vol.~44, no.~4, pp.~477--485, 1997.
+
+\bibitem{5951759}
+J.~A. Suul, K.~Ljokelsoy, T.~Midtsund, and T.~Undeland, ``Synchronous reference
+  frame hysteresis current control for grid converter applications,'' {\em IEEE
+  Transactions on Industry Applications}, vol.~47, no.~5, pp.~2183--2194, 2011.
+
+\bibitem{4510107}
+{Mahesh K. Mishra} and K.~Karthikeyan, ``Design and analysis of voltage source
+  inverter for active compensators to compensate unbalanced and non-linear
+  loads,'' in {\em 2007 International Power Engineering Conference (IPEC
+  2007)}, pp.~649--654, 2007.
+
+\bibitem{4766427}
+S.~Sasitharan and {Mahesh K. Mishra}, ``Design of passive filter components for
+  switching band controlled {DVR},'' in {\em TENCON 2008 - 2008 IEEE Region 10
+  Conference}, pp.~1--6, 2008.
+
+\bibitem{720325}
+M.~Kazmierkowski and L.~Malesani, ``Current control techniques for three-phase
+  voltage-source {PWM} converters: a survey,'' {\em IEEE Transactions on
+  Industrial Electronics}, vol.~45, no.~5, pp.~691--703, 1998.
+
+\bibitem{4766477}
+S.~S. and {Mahesh K. Mishra}, ``Constant frequency current control using a ramp
+  comparison method for a {DSTATCOM} application,'' in {\em TENCON 2008 - 2008
+  IEEE Region 10 Conference}, pp.~1--6, 2008.
+
+\bibitem{103436}
+B.~Bose, ``An adaptive hysteresis-band current control technique of a
+  voltage-fed {PWM} inverter for machine drive system,'' {\em IEEE Transactions
+  on Industrial Electronics}, vol.~37, no.~5, pp.~402--408, 1990.
+
+\bibitem{4758382}
+F.~Mekri, M.~Machmoum, N.~Ait~Ahmed, and B.~Mazari, ``A fuzzy hysteresis
+  voltage and current control of an unified power quality conditioner,'' in
+  {\em 2008 34th Annual Conference of IEEE Industrial Electronics},
+  pp.~2684--2689, 2008.
+
+\bibitem{6199990}
+D.~G. Holmes, R.~Davoodnezhad, and B.~P. McGrath, ``An improved three-phase
+  variable-band hysteresis current regulator,'' {\em IEEE Transactions on Power
+  Electronics}, vol.~28, no.~1, pp.~441--450, 2013.
+
+\bibitem{1489536}
+Y.~Kolhatkar, R.~Errabelli, and S.~Das, ``A sliding mode controller based
+  optimum {UPQC} with minimum {VA} loading,'' in {\em IEEE Power Engineering
+  Society General Meeting, 2005}, pp.~871--875 Vol. 1, 2005.
+
+\bibitem{4455458}
+W.~Yan, J.~Hu, V.~Utkin, and L.~Xu, ``Sliding mode pulsewidth modulation,''
+  {\em IEEE Transactions on Power Electronics}, vol.~23, no.~2, pp.~619--626,
+  2008.
+
+\bibitem{844502}
+{Se-Kyo Chung}, ``A phase tracking system for three phase utility interface
+  inverters,'' {\em IEEE Transactions on Power Electronics}, vol.~15,
+  pp.~431--438, May 2000.
+
+\bibitem{1318659}
+M.~{Karimi-Ghartemani} and M.~R. {Iravani}, ``A method for synchronization of
+  power electronic converters in polluted and variable-frequency
+  environments,'' {\em IEEE Transactions on Power Systems}, vol.~19,
+  pp.~1263--1270, Aug 2004.
+
+\bibitem{4153695}
+P.~{Rodriguez}, A.~{Luna}, M.~{Ciobotaru}, R.~{Teodorescu}, and F.~{Blaabjerg},
+  ``Advanced grid synchronization system for power converters under unbalanced
+  and distorted operating conditions,'' in {\em IECON 2006 - 32nd Annual
+  Conference on IEEE Industrial Electronics}, pp.~5173--5178, Nov 2006.
+
+\bibitem{1711988}
+M.~{Ciobotaru}, R.~{Teodorescu}, and F.~{Blaabjerg}, ``A new single-phase {PLL}
+  structure based on second order generalized integrator,'' in {\em 2006 37th
+  IEEE Power Electronics Specialists Conference}, pp.~1--6, June 2006.
+
+\bibitem{1712059}
+P.~{Rodriguez}, R.~{Teodorescu}, I.~{Candela}, A.~V. {Timbus}, M.~{Liserre},
+  and F.~{Blaabjerg}, ``New positive-sequence voltage detector for grid
+  synchronization of power converters under faulty grid conditions,'' in {\em
+  2006 37th IEEE Power Electronics Specialists Conference}, pp.~1--7, June
+  2006.
+
+\bibitem{4758048}
+P.~{Rodriguez}, A.~{Luna}, I.~{Candela}, R.~{Teodorescu}, and F.~{Blaabjerg},
+  ``Grid synchronization of power converters using multiple second order
+  generalized integrators,'' in {\em 2008 34th Annual Conference of IEEE
+  Industrial Electronics}, pp.~755--760, Nov 2008.
+
+\bibitem{5446347}
+P.~{Rodriguez}, A.~{Luna}, I.~{Candela}, R.~{Mujal}, R.~{Teodorescu}, and
+  F.~{Blaabjerg}, ``Multiresonant frequency-locked loop for grid
+  synchronization of power converters under distorted grid conditions,'' {\em
+  IEEE Transactions on Industrial Electronics}, vol.~58, pp.~127--138, Jan
+  2011.
+
+\bibitem{5443553}
+F.~A.~S. {Neves}, M.~C. {Cavalcanti}, H.~E.~P. {de Souza}, F.~{Bradaschia},
+  E.~J. {Bueno}, and M.~{Rizo}, ``A generalized delayed signal cancellation
+  method for detecting fundamental-frequency positive-sequence three-phase
+  signals,'' {\em IEEE Transactions on Power Delivery}, vol.~25,
+  pp.~1816--1825, July 2010.
+
+\bibitem{5624643}
+Y.~F. {Wang} and Y.~{Wei Li}, ``Analysis and digital implementation of cascaded
+  delayed-signal-cancellation {PLL},'' {\em IEEE Transactions on Power
+  Electronics}, vol.~26, pp.~1067--1080, April 2011.
+
+\bibitem{5668509}
+Y.~F. {Wang} and Y.~W. {Li}, ``Grid synchronization {PLL} based on cascaded
+  delayed signal cancellation,'' {\em IEEE Transactions on Power Electronics},
+  vol.~26, pp.~1987--1997, July 2011.
+
+\bibitem{6249751}
+P.~S.~B. {Nascimento}, H.~E.~P. {de Souza}, F.~A.~S. {Neves}, and L.~R.
+  {Limongi}, ``{FPGA} implementation of the generalized delayed signal
+  cancelation - phase locked loop method for detecting harmonic sequence
+  components in three-phase signals,'' {\em IEEE Transactions on Industrial
+  Electronics}, vol.~60, pp.~645--658, Feb 2013.
+
+\bibitem{5959976}
+Y.~F. {Wang} and Y.~W. {Li}, ``Three-phase cascaded delayed signal cancellation
+  {PLL} for fast selective harmonic detection,'' {\em IEEE Transactions on
+  Industrial Electronics}, vol.~60, pp.~1452--1463, April 2013.
+
+\bibitem{7081338}
+S.~{Golestan}, F.~D. {Freijedo}, A.~{Vidal}, A.~G. {Yepes}, J.~M. {Guerrero},
+  and J.~{Doval-Gandoy}, ``An efficient implementation of generalized delayed
+  signal cancellation {PLL},'' {\em IEEE Transactions on Power Electronics},
+  vol.~31, pp.~1085--1094, Feb 2016.
+
+\bibitem{8624618}
+M.~S. {Reza}, F.~{Sadeque}, M.~M. {Hossain}, A.~M. Y.~M. {Ghias}, and V.~G.
+  {Agelidis}, ``Three-phase {PLL} for grid-connected power converters under
+  both amplitude and phase unbalanced conditions,'' {\em IEEE Transactions on
+  Industrial Electronics}, vol.~66, pp.~8881--8891, Nov 2019.
+
+\bibitem{6276263}
+Y.~F. {Wang} and Y.~W. {Li}, ``A grid fundamental and harmonic component
+  detection method for single-phase systems,'' {\em IEEE Transactions on Power
+  Electronics}, vol.~28, pp.~2204--2213, May 2013.
+
+\bibitem{8274027}
+S.~{Gude} and C.~{Chu}, ``Performance enhancement of pre-filtered multiple
+  delayed signal cancellation based {PLL},'' in {\em 2017 IEEE Power Energy
+  Society General Meeting}, pp.~1--5, July 2017.
+
+\bibitem{5332351}
+N.~{Prabhakar} and {Mahesh K. Mishra}, ``Dynamic hysteresis current control to
+  minimize switching for three-phase four-leg {VSI} topology to compensate
+  nonlinear load,'' {\em IEEE Transactions on Power Electronics}, vol.~25,
+  no.~8, pp.~1935--1942, 2010.
+
+\bibitem{9183965}
+S.~B.~Q. Naqvi, S.~Kumar, and B.~Singh, ``Three-phase four-wire {PV} system for
+  grid interconnection at weak grid conditions,'' {\em IEEE Transactions on
+  Industry Applications}, vol.~56, no.~6, pp.~7077--7087, 2020\color{black}.
+
+\bibitem{8295220}
+S.~K. {Patel}, S.~R. {Arya}, R.~{Maurya}, and B.~C. {Babu}, ``Control scheme
+  for {DSTATCOM} based on frequency-adaptive disturbance observer,'' {\em IEEE
+  Journal of Emerging and Selected Topics in Power Electronics}, vol.~6, no.~3,
+  pp.~1345--1354, 2018.
+
+\bibitem{9516846}
+G.~S. Chawda and A.~G. Shaik, ``Enhancement of wind energy penetration levels
+  in rural grid using {ADALINE-LMS} controlled distribution static
+  compensator,'' {\em IEEE Transactions on Sustainable Energy}, pp.~1--1,
+  2021\color{black}.
+
+\bibitem{7084175}
+M.~Badoni, A.~Singh, and B.~Singh, ``Variable forgetting factor recursive least
+  square control algorithm for {DSTATCOM},'' {\em IEEE Transactions on Power
+  Delivery}, vol.~30, no.~5, pp.~2353--2361, 2015.
+
+\bibitem{6782746}
+S.~R. Arya and B.~Singh, ``Implementation of kernel incremental metalearning
+  algorithm in distribution static compensator,'' {\em IEEE Transactions on
+  Power Electronics}, vol.~30, no.~3, pp.~1157--1169, 2015.
+
+\bibitem{8616892}
+S.~{Hou}, J.~{Fei}, C.~{Chen}, and Y.~{Chu}, ``Finite-time adaptive
+  fuzzy-neural-network control of active power filter,'' {\em IEEE Transactions
+  on Power Electronics}, vol.~34, no.~10, pp.~10298--10313, 2019.
+
+\bibitem{5224000}
+V.~George and {Mahesh K. Mishra}, ``Design and analysis of user-defined
+  constant switching frequency current-control-based four-leg {DSTATCOM},''
+  {\em IEEE Transactions on Power Electronics}, vol.~24, no.~9, pp.~2148--2158,
+  2009.
+
+\bibitem{1262054}
+{Jang-Hwan Kim} and {Seung-Ki Sul}, ``A carrier-based {PWM} method for
+  three-phase four-leg voltage source converters,'' {\em IEEE Trans. Power
+  Electron.}, vol.~19, no.~1, pp.~66--75, 2004.
+
+\bibitem{Siew}
+Y.-M.~L. Siew-Chong~Tan and C.~K. Tse, {\em Sliding mode control of switching
+  power converters techniques and implementation}.
+\newblock Boca Raton, Fla: CRC Press, 2012.
+
+\bibitem{9070288}
+N.~{Lokesh} and {Mahesh K. Mishra}, ``A comparative performance study of
+  advanced {PLLs} for grid synchronization,'' in {\em 2020 IEEE International
+  Conference on Power Electronics, Smart Grid and Renewable Energy
+  (PESGRE2020)}, pp.~1--6, 2020.
+
+\bibitem{8281573}
+N.~M. {Ismail} and {Mahesh K. Mishra}, ``Study on the design and switching
+  dynamics of hysteresis current controlled four-leg voltage source inverter
+  for load compensation,'' {\em IET Power Electronics}, vol.~11, no.~2,
+  pp.~310--319, 2018.
+
+\bibitem{5235863}
+{Mahesh K. Mishra} and K.~{Karthikeyan}, ``A fast-acting {DC}-link voltage
+  controller for three-phase {DSTATCOM} to compensate {AC and DC} loads,'' {\em
+  IEEE Transactions on Power Delivery}, vol.~24, no.~4, pp.~2291--2299, 2009.
+
+\bibitem{8998568}
+C.~Gong, W.-K. Sou, and C.-S. Lam, ``Second-order sliding-mode current
+  controller for {LC}-coupling hybrid active power filter,'' {\em IEEE
+  Transactions on Industrial Electronics}, vol.~68, no.~3, pp.~1883--1894,
+  2021\color{black}.
+
+\bibitem{1308387}
+E.~Sng, S.~Choi, and D.~Vilathgamuwa, ``Analysis of series compensation and
+  {DC}-link voltage controls of a transformerless self-charging dynamic voltage
+  restorer,'' {\em IEEE Transactions on Power Delivery}, vol.~19, no.~3,
+  pp.~1511--1518, 2004.
+
+\bibitem{9324762}
+P.~Ghavidel, M.~Farhadi, M.~Dabbaghjamanesh, A.~Jolfaei, and M.~Sabahi, ``Fault
+  current limiter dynamic voltage restorer {(FCL-DVR)} with reduced number of
+  components,'' {\em IEEE Journal of Emerging and Selected Topics in Industrial
+  Electronics}, vol.~2, no.~4, pp.~526--534, 2021.
+
+\bibitem{9219217}
+Q.~Guo, C.~Tu, F.~Jiang, R.~Zhu, and J.~Gao, ``Improved dual-functional {DVR}
+  with integrated auxiliary capacitor for capacity optimization,'' {\em IEEE
+  Transactions on Industrial Electronics}, vol.~68, no.~10, pp.~9755--9766,
+  2021.
+
+\bibitem{5665777}
+C.~Wessels, F.~Gebhardt, and F.~W. Fuchs, ``Fault ride-through of a {DFIG} wind
+  turbine using a dynamic voltage restorer during symmetrical and asymmetrical
+  grid faults,'' {\em IEEE Transactions on Power Electronics}, vol.~26, no.~3,
+  pp.~807--815, 2011.
+
+\bibitem{8533610}
+A.~Benali, M.~Khiat, T.~Allaoui, and M.~Denaï, ``Power quality improvement and
+  low voltage ride through capability in hybrid wind-{PV} farms grid-connected
+  using dynamic voltage restorer,'' {\em IEEE Access}, vol.~6,
+  pp.~68634--68648, 2018.
+
+\bibitem{1214534}
+C.~Zhan, A.~Arulampalam, and N.~Jenkins, ``Four-wire dynamic voltage restorer
+  based on a three-dimensional voltage space vector {PWM} algorithm,'' {\em
+  IEEE Transactions on Power Electronics}, vol.~18, no.~4, pp.~1093--1102,
+  2003.
+
+\bibitem{7134803}
+X.~Zhou, F.~Tang, P.~C. Loh, X.~Jin, and W.~Cao, ``Four-leg converters with
+  improved common current sharing and selective voltage-quality enhancement for
+  islanded microgrids,'' {\em IEEE Transactions on Power Delivery}, vol.~31,
+  no.~2, pp.~522--531, 2016.
+
+\bibitem{9162539}
+V.~Narayanan, S.~Kewat, and B.~Singh, ``Control and implementation of a
+  multifunctional solar {PV-BES-DEGS} based microgrid,'' {\em IEEE Transactions
+  on Industrial Electronics}, vol.~68, no.~9, pp.~8241--8252, 2021.
+
+\bibitem{7884971}
+M.~Pichan and H.~Rastegar, ``Sliding-mode control of four-leg inverter with
+  fixed switching frequency for uninterruptible power supply applications,''
+  {\em IEEE Transactions on Industrial Electronics}, vol.~64, no.~8,
+  pp.~6805--6814, 2017.
+
+\bibitem{9250485}
+D.~G.~A. Krishna, K.~Anbalagan, K.~K. Prabhakaran, and S.~Kumar, ``An efficient
+  pseudo-derivative-feedback-based voltage controller for {DVR} under distorted
+  grid conditions,'' {\em IEEE Journal of Emerging and Selected Topics in
+  Industrial Electronics}, vol.~2, no.~1, pp.~71--81, 2021.
+
+\bibitem{9324809}
+T.~Appala~Naidu, S.~R. Arya, R.~Maurya, and S.~Padmanaban, ``Performance of
+  {DVR} using optimized {PI} controller based gradient adaptive variable step
+  {LMS} control algorithm,'' {\em IEEE Journal of Emerging and Selected Topics
+  in Industrial Electronics}, vol.~2, no.~2, pp.~155--163, 2021.
+
+\bibitem{slotine1991applied}
+J.~Slotine and W.~Li, {\em Applied Nonlinear Control}.
+\newblock Prentice-Hall International Editions, Prentice-Hall, 1991.
+
+\bibitem{9868140}
+M.~V, A.~Bhattacharya, and B.~G.~M., ``Second order sliding mode control for
+  three level {H} bridge based unified power quality conditioner with vanilla
+  feed-forward neural network,'' {\em IEEE Journal of Emerging and Selected
+  Topics in Industrial Electronics}, pp.~1--11, 2022.
+
+\bibitem{6760466}
+B.~Bidikli, E.~Tatlicioglu, A.~Bayrak, and E.~Zergeroglu, ``A new robust
+  integral of sign of error feedback controller with adaptive compensation
+  gain,'' in {\em 52nd IEEE Conference on Decision and Control},
+  pp.~3782--3787, 2013.
+
+\end{thebibliography}

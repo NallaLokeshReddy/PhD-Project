@@ -1,0 +1,33 @@
+Case 1:
+
+Fundamental balanced voltages withy a magnitude of 230 V RMS per phase.
+
+At 0.4 sec, frequency changes to 52 Hz from 50 Hz. At 0.5 sec, it is again changed to 48 Hz. Again at 0.6 sec, it is changed to 100 Hz.
+
+
+Case 2:
+
+At 0.4 sec fundamental balanced voltages are changed to fundamental balanced sag of 0.5 pu.
+At 0.5 sec, fundamental unbalanced sag Vsa = 0.5 pu and others at 1 pu is created
+At 0.6 sec, fundamental balanced swell Vs = 1.2 pu is created
+At 0.7 sec, fundamental unbalanced swell Vsa = 1.2 pu and others at 1 pu is created
+At 0.8 sec, Harmonic voltages with a THD of is created
+At 0.9 sec, Harmonic balanced sag Vs = 0.5 pu is created; THD is 
+At 1 sec, Harmonic unbalanced sag Vsa = 0.5 pu and others at 1 pu is created; THD is
+At 1.1 sec, Harmonic balanced swell Vs = 1.2 pu is created; THD is
+At 1.2 sec, Harmonic unbalanced swell Vsa = 1.2 pu and others at 1 pu is created; THD is
+
+
+Case 3:
+
+At 0.4 sec, fundamental balanced voltages are transitioned to fundamental balanced voltages with a phase angle jump of 180 degrees.
+At 0.8 sec, 100 V DC offset is added to the fundamental balanced voltages
+At 0.9 sec, voltage distortions are created.
+
+
+
+
+
+
+
+

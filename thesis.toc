@@ -1,0 +1,95 @@
+\contentsline {chapter}{ACKNOWLEDGEMENTS}{i}{chapter*.2}%
+\contentsline {chapter}{ABSTRACT}{iii}{chapter*.3}%
+\contentsline {chapter}{LIST OF TABLES}{ix}{chapter*.5}%
+\contentsline {chapter}{LIST OF FIGURES}{xv}{chapter*.6}%
+\contentsline {chapter}{ABBREVIATIONS}{xvii}{chapter*.7}%
+\contentsline {chapter}{NOTATIONS}{xix}{chapter*.8}%
+\ttl@change@i {\@ne }{chapter}{0pt}{\vspace {0.1cm}}{\bfseries \@chapapp \ \thecontentslabel \quad }{}{\bfseries \hfill \contentspage }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}CUSTOM POWER DEVICES}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Distribution Static Compensator}{2}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Dynamic Voltage Restorer}{3}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Unified Power Quality Conditioner}{4}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}MOTIVATION}{5}{section.1.2}%
+\contentsline {section}{\numberline {1.3}OBJECTIVES}{7}{section.1.3}%
+\contentsline {section}{\numberline {1.4}ORGANIZATION OF THE THESIS}{8}{section.1.4}%
+\contentsline {chapter}{\numberline {2}THE TOPOLOGICAL CHARACTERISTICS OF DUAL-OUTPUT VOLTAGE SOURCE CONVERTER}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}INTRODUCTION}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}{CONVENTIONAL UPQC}}{11}{section.2.2}%
+\contentsline {section}{\numberline {2.3}DUAL-OUTPUT CONVERTER}{14}{section.2.3}%
+\contentsline {section}{\numberline {2.4}DUAL-OUTPUT CONVERTER BASED UPQC }{20}{section.2.4}%
+\contentsline {section}{\numberline {2.5}CONTROL OF UPQC}{25}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Generation of Reference Quantities for DSTATCOM}{25}{subsection.2.5.1}%
+\contentsline {subsubsection}{Instantaneous Reactive Power Theory \cite {Mahesh_Mishra}}{25}{subsection.2.5.1}%
+\contentsline {subsubsection}{Modified \textit {p}-\textit {q} Theory \cite {akagi1999theory, SrinivasBhaskar}}{28}{equation.2.5.12}%
+\contentsline {subsubsection}{Generalized Instantaneous Reactive Power Theory \cite {peng1996generalized,SrinivasBhaskar}}{31}{equation.2.5.23}%
+\contentsline {subsubsection}{Synchronous Reference Frame Theory \cite {Benhabib2005353,SrinivasBhaskar}}{32}{equation.2.5.28}%
+\contentsline {subsubsection}{Instantaneous Symmetrical Components Theory \cite {ghosh1998new,847283,ghosh2000use, Mahesh_Mishra}}{34}{equation.2.5.32}%
+\contentsline {subsection}{\numberline {2.5.2}Generation of Reference Quantities for DVR}{39}{subsection.2.5.2}%
+\contentsline {subsubsection}{Pre-Sag Compensation}{39}{subsection.2.5.2}%
+\contentsline {subsubsection}{In-Phase Compensation}{41}{equation.2.5.47}%
+\contentsline {subsubsection}{Energy Optimized Compensation}{42}{equation.2.5.51}%
+\contentsline {subsection}{\numberline {2.5.3}Switching Control Techniques}{43}{subsection.2.5.3}%
+\contentsline {subsubsection}{A. Hysteresis Control}{43}{subsection.2.5.3}%
+\contentsline {subsubsection}{B. Constant Switching Frequency Hysteresis Controllers}{44}{subsection.2.5.3}%
+\contentsline {subsubsection}{C. Sliding Mode Control}{44}{subsection.2.5.3}%
+\contentsline {section}{\numberline {2.6}SUMMARY}{45}{section.2.6}%
+\contentsline {chapter}{\numberline {3}A PERFORMANCE COMPARISON OF ADVANCED PLLs FOR GRID SYNCHRONIZATION}{47}{chapter.3}%
+\contentsline {section}{\numberline {3.1}INTRODUCTION}{47}{section.3.1}%
+\contentsline {section}{\numberline {3.2}REVIEW ON ADVANCED PLLs}{48}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Second Order Generalized Integrator Based PLL}{49}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Cascaded Delayed Signal Cancellation Based PLL}{53}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Multiple Delayed Signal Cancellation Based PLL}{58}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}PERFORMANCE EVALUATION OF ADVANCED PLLs}{59}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Frequency Jump}{60}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Voltage Disturbances without Harmonics}{60}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Voltage Disturbances with Harmonics}{62}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Phase Angle Jump}{62}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Presence of DC Components}{64}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}Voltage Distortions}{65}{subsection.3.3.6}%
+\contentsline {section}{\numberline {3.4}SUMMARY}{66}{section.3.4}%
+\contentsline {chapter}{\numberline {4}DESIGN OF A DECOUPLED SLIDING MODE CONTROL FOR FOUR-LEG DISTRIBUTION STATIC COMPENSATOR}{67}{chapter.4}%
+\contentsline {section}{\numberline {4.1}INTRODUCTION}{67}{section.4.1}%
+\contentsline {section}{\numberline {4.2}SYSTEM MODELING AND CONVENTIONAL SLIDING MODE CONTROL}{69}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Modeling of Four-leg DSTATCOM}{69}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Conventional SMC}{71}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}PROPOSED SLIDING MODE CONTROL SCHEME}{72}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}SMC Derivation}{74}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Selection of The Proposed SMC Parameters}{76}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Generation of Compensator Reference Quantities and Switching Pulses}{77}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Design of Filter Inductance}{78}{subsection.4.3.4}%
+\contentsline {section}{\numberline {4.4}SIMULATION STUDIES}{80}{section.4.4}%
+\contentsline {section}{\numberline {4.5}EXPERIMENTAL STUDIES}{87}{section.4.5}%
+\contentsline {section}{\numberline {4.6}STATE-OF-THE-ART AND PROPOSED METHOD COMPARISONS}{91}{section.4.6}%
+\contentsline {section}{\numberline {4.7}SUMMARY}{95}{section.4.7}%
+\contentsline {chapter}{\numberline {5}SLIDING MODE CONTROL OF A FOUR-LEG DYNAMIC VOLTAGE RESTORER IN A NATURAL REFERENCE FRAME}{97}{chapter.5}%
+\contentsline {section}{\numberline {5.1}INTRODUCTION}{97}{section.5.1}%
+\contentsline {section}{\numberline {5.2}MODELING OF FOUR-LEG DVR}{101}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}System Modeling}{101}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Conventional SMC}{103}{subsection.5.2.2}%
+\contentsline {section}{\numberline {5.3}PROPOSED SLIDING MODE CONTROL SCHEME}{105}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Selection of Sliding Surface}{107}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Selection of $\lambda _j$ for Maximum Existence Region}{109}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Reference Generation for DVR Compensation Voltages}{112}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}SIMULATION STUDIES}{114}{section.5.4}%
+\contentsline {section}{\numberline {5.5}EXPERIMENTAL STUDIES}{117}{section.5.5}%
+\contentsline {section}{\numberline {5.6}SUMMARY}{125}{section.5.6}%
+\contentsline {chapter}{\numberline {6}A ROBUST CONTROL SCHEME FOR AN INTEGRATED DUAL-OUTPUT UNIFIED POWER QUALITY CONDITIONER}{127}{chapter.6}%
+\contentsline {section}{\numberline {6.1}INTRODUCTION}{127}{section.6.1}%
+\contentsline {section}{\numberline {6.2}DESCRIPTION OF THE SYSTEM}{129}{section.6.2}%
+\contentsline {section}{\numberline {6.3}PROPOSED CONTROL SCHEME}{129}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Generation of Reference Quantities}{129}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Implementation of Proposed SMC}{135}{subsection.6.3.2}%
+\contentsline {section}{\numberline {6.4}SIMULATION STUDIES}{136}{section.6.4}%
+\contentsline {section}{\numberline {6.5}SUMMARY}{141}{section.6.5}%
+\contentsline {chapter}{\numberline {7}CONCLUSIONS AND FUTURE SCOPES}{143}{chapter.7}%
+\contentsline {section}{\numberline {7.1}SUMMARY}{143}{section.7.1}%
+\contentsline {section}{\numberline {7.2}SCOPE FOR FUTURE RESEARCH}{147}{section.7.2}%
+\ttl@change@i {\z@ }{chapter}{0pt}{\vspace {0.05cm}}{\bfseries \@chapapp \ \thecontentslabel \quad }{}{\bfseries \hfill \contentspage \newline \newline }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\renewcommand {\@chapapp }{APPENDIX}
+\contentsline {chapter}{\numberline {A}SIMPLIFIED EXPLANATION OF THE PROPOSED CONTROL SCHEME}{149}{appendix.A}%
+\contentsline {chapter}{\numberline {B}LIMITATIONS OF A THREE-WIRE DVR IN DISTRIBUTION SYSTEM}{153}{appendix.B}%
+\contentsline {chapter}{\textbf {REFERENCES}}{173}{appendix*.97}%
+\contentsfinish 

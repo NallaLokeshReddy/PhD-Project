@@ -1,0 +1,229 @@
+\documentclass[PhD]{iitmdiss}
+\usepackage{libertine}
+\usepackage{times}
+\usepackage{t1enc}
+\usepackage{pgf}
+\usepackage{xcolor,colortbl}
+%
+\usepackage{graphicx}
+\usepackage{hyperref} % hyperlinks for references.
+\usepackage{amsmath} % easier math formulae, align, subequations \ldots
+\usepackage{amssymb}
+\usepackage{rotating} % To rotate images
+%\usepackage{psfrag}
+%\usepackage{cite}
+\usepackage{afterpage}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{siunitx}
+%\usepackage{tabto}
+%\usepackage{multirow}
+%\usepackage{stfloats}
+\usepackage{tabu}  
+\usepackage[normalem]{ulem}
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
+%    
+\usepackage{tikz}
+\usepackage{circuitikz}
+\usepackage{pgfplots}
+\usepackage{booktabs,multirow,tabularx}
+\usepackage{anyfontsize}
+%
+
+\usepackage{multirow}
+\usepackage{caption}
+\usepackage[labelformat=simple]{subcaption}
+\renewcommand\thesubfigure{(\alph{subfigure})}
+\renewcommand\thesubtable{(\alph{subtable})}
+\usepackage{bookmark}
+\usepackage{cleveref}
+\crefrangeformat{equation}{(#3#1#4) to~(#5#2#6)}
+\usepackage{pdfpages}
+\usepackage{array}
+%
+\usepackage{titlesec}
+\usepackage{titletoc}
+\usepackage{enumitem}
+\usepackage{setspace}
+\setlist[itemize]{noitemsep}
+\titleformat{\section}
+  {\vspace{1.2em}\normalfont\fontsize{12}{0.55em}\bfseries}
+  {\thesection}
+  {1em}
+  {}
+  [\vspace{-0.6cm}]
+%  
+\titleformat{\subsection}
+  {\vspace{1.2em}\normalfont\fontsize{12}{0em}\bfseries}{\thesubsection}{1em}{\vspace{-0.5cm}}
+%  
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1.2em}
+%
+%---------------------------------
+%to avoid hyphenation in text
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+%
+\sloppy
+%to avoid hyphenation in text
+%---------------------------------
+%
+\usepackage{notoccite}
+\graphicspath{{figures/}}
+%
+\setstretch{1.5}
+% 
+\hypersetup{
+    colorlinks=false,
+    pdfborder={0 0 0}
+}
+\begin{document}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% UNCOMMENT THIS SECTION AT THE END
+%Title page
+
+\maketitle
+\input{FrontPages/TitlePage}
+\makeinnertitle %inside cover page
+\input{FrontPages/InnerTitlePage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% UNCOMMENT THIS SECTION AT THE END
+%Certificate
+\certificate
+\input{FrontPages/Certificate}
+%
+%
+\pagebreak
+%\afterpage{\blankpage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% UNCOMMENT THIS SECTION AT THE END
+% List of Publications
+\listofpublications
+The publications arising out of the work mentioned in this thesis are given as follows.
+%\vspace{-1cm}
+\begin{singlespace}
+\input{Publications/publications}
+\end{singlespace}
+%
+\pagebreak
+%\afterpage{\blankpage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% UNCOMMENT THIS SECTION AT THE END
+% Acknowledgements
+\input{FrontPages/Acknowledgement}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% UNCOMMENT THIS SECTION AT THE END
+% Abstract
+%
+\input{Abstract/Abstract}
+%
+\pagebreak
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% UNCOMMENT THIS SECTION AT THE ENDs
+%% Table of contents etc.
+%
+\begin{singlespace}
+\tableofcontents
+%
+%\thispagestyle{empty}
+%\afterpage{\blankpage}
+%%
+\listoftables
+\addcontentsline{toc}{chapter}{LIST OF TABLES}
+\listoffigures
+\addcontentsline{toc}{chapter}{LIST OF FIGURES}
+\end{singlespace}
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% UNCOMMENT THIS SECTION AT THE END
+% Abbreviations
+\input{Abbreviations/Abbreviations}
+%
+\pagebreak
+%\afterpage{\blankpage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% UNCOMMENT THIS SECTION AT THE END
+% Notation
+%
+\vspace{-0.5cm}
+\input{Abbreviations/Notations}
+%
+\pagebreak
+%\clearpage
+\afterpage{\blankpage}
+%
+\pagenumbering{arabic}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%changing the format of table of contents to show "chapter" before chapter names 
+% don't change the relative position of this code here.
+%
+\titlecontents{chapter}% <section-type>
+  [0pt]% <left>
+  {\vspace{0.1cm}}% <above-code>
+  {\bfseries\@chapapp\ \thecontentslabel\quad}% <numbered-entry-format>
+  {}% <numberless-entry-format>
+  {\bfseries\hfill\contentspage}% <filler-page-format>
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+\doublespacing
+\setstretch{1.66}
+\input{Chapters/chapter1}
+\input{Chapters/chapter2}
+\input{Chapters/chapter3}
+\input{Chapters/chapter4}
+\input{Chapters/chapter5}
+\input{Chapters/chapter6}
+\input{Chapters/chapter7}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Appendices.
+%
+\titlecontents*{chapter}% <section-type>
+[0pt]% <left>
+{\vspace{0.05cm}}% <above-code>
+{\bfseries\@chapapp\ \thecontentslabel\quad}% <numbered-entry-format>
+{}% <numberless-entry-format>
+{\bfseries\hfill\contentspage\newline\newline}% <filler-page-format>
+%
+\appendix
+%
+\begin{appendices}
+	%
+	\input{Appendix/Appendix_1}
+	\input{Appendix/Appendix_2}
+	%
+\end{appendices}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bibliography.
+%
+%
+\bibliographystyle{ieeetr}
+\begin{singlespace}
+  \bibliography{thesis}
+  \addcontentsline{toc}{chapter}{\textbf{REFERENCES}}
+\end{singlespace}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%\CV
+%%insert your CV here
+%
+%\committee
+%%\input{committee/committee_phd}
+%\input{committee/committee_ms}
+
+\end{document}

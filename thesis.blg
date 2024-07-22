@@ -1,0 +1,695 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+The style file: ieeetr.bst
+Database file #1: thesis.bib
+You're missing a field name---line 477 of file thesis.bib
+ :  
+ :  %doi = {https://doi.org/10.1016/j.epsr.2004.08.012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 834 of file thesis.bib
+ : 
+ : %doi={10.1109/PESC.2007.4342442}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 845 of file thesis.bib
+ : 
+ : %doi={10.1109/EPE.2007.4417438}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 856 of file thesis.bib
+ : 
+ : %doi={10.1109/TVT.2010.2048048}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 867 of file thesis.bib
+ : 
+ : %doi={10.1109/TIE.2011.2146216}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 878 of file thesis.bib
+ : 
+ : %doi={10.1109/TPEL.2010.2047733}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 889 of file thesis.bib
+ : 
+ : %doi={10.1109/ISIE.2013.6563653}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 900 of file thesis.bib
+ : 
+ : %doi={10.1109/IPEC.2010.5542338}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 911 of file thesis.bib
+ : 
+ : %doi={10.1109/TPEL.2011.2115256}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 922 of file thesis.bib
+ : 
+ : %doi={10.1109/IECON.2002.1185456}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I'm ignoring IEE-EPA's extra "author" field
+--line 927 of file thesis.bib
+Warning--I'm ignoring IEE-EPA's extra "author" field
+--line 928 of file thesis.bib
+Warning--I'm ignoring IEE-EPA's extra "author" field
+--line 929 of file thesis.bib
+You're missing a field name---line 953 of file thesis.bib
+ : 
+ : %doi={10.1109/41.605621}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 964 of file thesis.bib
+ : 
+ : %doi={10.1109/TIA.2011.2161738}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 976 of file thesis.bib
+ : 
+ : %doi={}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 988 of file thesis.bib
+ : 
+ : %doi={10.1109/TENCON.2008.4766427}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1000 of file thesis.bib
+ : 
+ : %doi={10.1109/41.720325}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1012 of file thesis.bib
+ : 
+ : %doi={10.1109/TENCON.2008.4766477}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1024 of file thesis.bib
+ : 
+ : %doi={10.1109/41.103436}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1036 of file thesis.bib
+ : 
+ : %doi={10.1109/TPEL.2012.2199133}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1048 of file thesis.bib
+ : 
+ : %doi={10.1109/IECON.2008.4758382}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1060 of file thesis.bib
+ : 
+ : %doi={10.1109/PES.2005.1489536}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1072 of file thesis.bib
+ : 
+ : %doi={10.1109/TPEL.2007.915775}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1098 of file thesis.bib
+ :  
+ :  %pages={672},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1110 of file thesis.bib
+ :  
+ :  %note         = {Available at \url{https://example.com/thesis.pdf}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1123 of file thesis.bib
+ :  
+ :  %note         = {Available at \url{https://example.com/thesis.pdf}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1138 of file thesis.bib
+ : 
+ : %doi={10.1109/TPEL.2021.3115049}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field part---line 1173 of file thesis.bib
+ : month=
+ :       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1300 of file thesis.bib
+ : @inproceedings{4510107
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--string name "sept." is undefined
+--line 1404 of file thesis.bib
+Warning--string name "oct." is undefined
+--line 1518 of file thesis.bib
+Repeated entry---line 1901 of file thesis.bib
+ : @inproceedings{4766427
+ :                       ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 1976 of file thesis.bib
+ : month=
+ :       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2103 of file thesis.bib
+ : @inproceedings{4510107
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2115 of file thesis.bib
+ : @article{847283
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2142 of file thesis.bib
+ : @article{4158027
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2200 of file thesis.bib
+ : @article{5224000
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2243 of file thesis.bib
+ : @article{662847
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2314 of file thesis.bib
+ : @article{4519806
+ :                 ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2378 of file thesis.bib
+ : 
+ : @ARTICLE{1650866,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2708 of file thesis.bib
+ :  
+ :  %doi={10.1109/TSTE.2014.2381291}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 2710 of file thesis.bib
+ : @inproceedings{6563653
+ :                       ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2726 of file thesis.bib
+ :  
+ :  %doi={10.1109/NPEC47332.2019.9034773}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 2728 of file thesis.bib
+ : @article{5224000
+ :                 ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2764 of file thesis.bib
+ :  
+ :  %doi={10.1109/TPEL.2009.2036616},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2776 of file thesis.bib
+ :  
+ :  %doi={10.1109/JESTPE.2016.2633481}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2788 of file thesis.bib
+ :  
+ :  %doi={10.1109/JESTPE.2018.2808191}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2801 of file thesis.bib
+ :  
+ :  %doi={10.1109/TPWRD.2014.2344770}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2811 of file thesis.bib
+ :  
+ :  %doi={10.1109/TPEL.2006.875566}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2822 of file thesis.bib
+ :  
+ :  % doi={10.1109/TPEL.2010.2041256}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2828 of file thesis.bib
+ :  
+ :  % author={Q. {Trinh} and H. {Lee}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2855 of file thesis.bib
+ :  
+ :  %doi={10.1109/TIE.2011.2126535},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2861 of file thesis.bib
+ :  
+ :  % author={G. {Shen} and X. {Zhu} and J. {Zhang} and D. {Xu}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2898 of file thesis.bib
+ :  
+ :  %doi={10.1109/TPWRD.2015.2422139}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2908 of file thesis.bib
+ :  
+ :  %doi={10.1109/TPEL.2012.2228884}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2919 of file thesis.bib
+ :  
+ :  %doi={10.1109/TPEL.2014.2315495}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2933 of file thesis.bib
+ :  
+ :  %doi={10.1109/TIE.2019.2905835}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2939 of file thesis.bib
+ :  
+ :  % author={A. {Dheepanchakkravarthy} and M. R. {Jawahar} and K. {Venkatraman} and M. P. {Selvan} and S. {Moorthi}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2956 of file thesis.bib
+ :  
+ :  %doi={10.1109/TPEL.2013.2257854}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2968 of file thesis.bib
+ :  
+ :  %doi={10.1109/TPEL.2002.1004239}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2980 of file thesis.bib
+ :  
+ :  %doi={10.1049/iet-gtd.2019.1775}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2992 of file thesis.bib
+ :  
+ :  %doi={10.1049/iet-gtd.2018.6782}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2999 of file thesis.bib
+ :  
+ :  % author={Mishra, S. and Bhende, C. N.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3020 of file thesis.bib
+ :  
+ :  %doi={10.1049/iet-pel.2017.0118}}\\
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3033 of file thesis.bib
+ :  
+ :  %doi={10.1049/iet-rpg.2019.1305}}\\
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3048 of file thesis.bib
+ :  
+ :  %doi={10.1109/TPWRD.2009.2027501},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 3053 of file thesis.bib
+ : @article{5443553
+ :                 ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3073 of file thesis.bib
+ :  
+ :  %doi={10.1109/PESGRE45664.2020.9070288}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3086 of file thesis.bib
+ :  
+ :  %doi={10.1109/TPEL.2003.820559}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3118 of file thesis.bib
+ :  
+ :  %doi={10.1109/TIE.2016.2540580}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3131 of file thesis.bib
+ :  
+ :  %doi={10.1109/TIE.2018.2795528}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3142 of file thesis.bib
+ :  
+ :  %doi={10.1109/TIE.2020.2998745}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3154 of file thesis.bib
+ :  
+ :  %doi={10.1109/TPEL.2019.2893618}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 3159 of file thesis.bib
+ : @article{4455458
+ :                 ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3176 of file thesis.bib
+ :  
+ :  %doi={10.1109/JPETS.2015.2501423}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3186 of file thesis.bib
+ :  
+ :  %doi={10.1109/TIE.2020.2972430}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3196 of file thesis.bib
+ :  
+ :  %doi={10.1109/TIE.2017.2686346}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3206 of file thesis.bib
+ :  
+ :  %doi={10.1109/TIA.2020.3020931}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3216 of file thesis.bib
+ :  
+ :  %doi={10.1109/TSTE.2021.3105423}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3261 of file thesis.bib
+ : 
+ : %doi={10.1109/JSYST.2017.2755075}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3272 of file thesis.bib
+ :  
+ :  %doi={10.1109/TIE.2012.2207653}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3282 of file thesis.bib
+ :  
+ :  %doi={10.1109/TPWRD.2004.829866}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3293 of file thesis.bib
+ :  
+ :  %doi = {https://doi.org/10.1049/iet-pel.2014.0734},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3318 of file thesis.bib
+ :  
+ :  %doi={10.1109/TPWRD.2015.2450111}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3328 of file thesis.bib
+ :  
+ :  % doi={10.1109/TIE.2020.3013740}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3338 of file thesis.bib
+ :  
+ :  %doi={10.1109/TIA.2005.858262}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 3342 of file thesis.bib
+ : @article{7884971
+ :                 ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3359 of file thesis.bib
+ :  
+ :  %doi={10.1109/TPEL.2003.813772}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3371 of file thesis.bib
+ :  
+ :  %doi={10.1109/TIE.2019.2962418}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3382 of file thesis.bib
+ :  
+ :  % doi={10.1109/JESTIE.2021.3051586}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3393 of file thesis.bib
+ :  
+ :  % doi={10.1109/TIE.2020.3028820}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3403 of file thesis.bib
+ :  
+ :  % doi={10.1109/TEC.2011.2158102}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3413 of file thesis.bib
+ :  
+ :  % doi={10.1109/TPEL.2010.2099133}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3423 of file thesis.bib
+ :  
+ :  %doi={10.1109/ACCESS.2018.2878493}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3433 of file thesis.bib
+ :  
+ :  % doi={10.1109/TIE.2014.2365753}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3443 of file thesis.bib
+ :  
+ :  % doi={10.1109/TIE.2016.2636806}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3454 of file thesis.bib
+ :  
+ :  % doi={10.1109/TIE.2018.2850009}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3465 of file thesis.bib
+ :  
+ :  % doi={10.1109/TPWRD.2003.813880}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3476 of file thesis.bib
+ :  
+ :  % doi={10.1109/TIA.2013.2272669}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3486 of file thesis.bib
+ :  
+ :  % doi={10.1109/TIA.2005.855045}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3496 of file thesis.bib
+ :  
+ :  % doi={10.1109/TSTE.2017.2781287}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3506 of file thesis.bib
+ :  
+ :  % doi={10.1109/TIE.2018.2829678}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 3509 of file thesis.bib
+ : @article{4305325
+ :                 ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3526 of file thesis.bib
+ :  
+ :  %doi={10.35833/MPCE.2018.000428}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3536 of file thesis.bib
+ :  
+ :  % doi={10.1109/TIE.2020.3038089}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3546 of file thesis.bib
+ :  
+ :  % doi={10.1109/TIE.2018.2868303}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3556 of file thesis.bib
+ :  
+ :  %doi={10.1109/TII.2016.2587769}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3566 of file thesis.bib
+ :  
+ :  % doi={10.1109/TPEL.2016.2586525}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 3597 of file thesis.bib
+ : @article{5332351
+ :                 ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3647 of file thesis.bib
+ :  
+ :  %doi={10.1109/TIE.2012.2229677},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3666 of file thesis.bib
+ :  
+ :  %doi={10.1109/TIE.2011.2126535},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3680 of file thesis.bib
+ :  
+ :  %doi={10.1109/TIE.2010.2040552},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3696 of file thesis.bib
+ :  
+ :  %doi={10.1109/JESTPE.2020.3007900}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3709 of file thesis.bib
+ :  
+ :  %doi={10.1109/JESTPE.2013.2266372}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3721 of file thesis.bib
+ :  
+ :  % doi={10.1109/TIE.2019.2905835}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 3726 of file thesis.bib
+ : @article{9175195
+ :                 ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3745 of file thesis.bib
+ :  
+ :  %doi={10.1109/JPETS.2015.2501423}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3758 of file thesis.bib
+ :  
+ :  %doi={10.1109/TII.2018.2793347}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3769 of file thesis.bib
+ :  
+ :  %doi={10.1049/iet-gtd.2017.0901}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 3776 of file thesis.bib
+ : @article{8281573
+ :                 ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3796 of file thesis.bib
+ :  
+ :  % doi={10.1049/iet-rpg.2019.1305}}\\
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 3802 of file thesis.bib
+ : @article{5235863
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3816 of file thesis.bib
+ : @article{5443553
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3829 of file thesis.bib
+ : @inproceedings{9070288
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3842 of file thesis.bib
+ : @article{1262054
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3853 of file thesis.bib
+ : @book{slotine1991applied
+ :                         ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3873 of file thesis.bib
+ :  
+ :  % doi={10.1109/TIE.2016.2540580}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3885 of file thesis.bib
+ : 
+ : %doi={10.1109/TIE.2013.2276311}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3907 of file thesis.bib
+ : 
+ : %doi={10.1109/JESTIE.2020.3036188}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3919 of file thesis.bib
+ : 
+ : %doi={10.1109/JESTIE.2021.3051553}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3932 of file thesis.bib
+ : 
+ : %doi={10.1109/CDC.2013.6760466}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 3964 of file thesis.bib
+ : @inproceedings{6563653
+ :                       ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3986 of file thesis.bib
+ : 
+ : %doi={10.1109/PEDS44367.2019.8998893}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 3990 of file thesis.bib
+ : @article{4455458
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4076 of file thesis.bib
+ : @article{1542327
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4131 of file thesis.bib
+ : @article{6556997
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4145 of file thesis.bib
+ : @article{4519806
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4159 of file thesis.bib
+ : @article{5668509
+ :                 ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4196 of file thesis.bib
+ : 
+ : @ARTICLE{9848440,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 4207 of file thesis.bib
+ : @article{1268201
+ :                 ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 4250 of file thesis.bib
+ : 
+ : %doi={10.1109/TPEL.2011.2106222}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 4262 of file thesis.bib
+ : 
+ : %doi={10.1109/TPEL.2010.2040635}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 4274 of file thesis.bib
+ : 
+ : %doi={10.1109/07IAS.2007.354}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 4278 of file thesis.bib
+ : @article{5713844
+ :                 ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 4298 of file thesis.bib
+ : 
+ : %doi={10.1109/TEC.2012.2215037}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty author in 9848440
+Name 1 in "{A.E. Leon}, {S.J. Amodeo}, {J.A.Solsona}, and {M.I. Valla}" has a comma at the end for entry iet-pel.2010.0134
+while executing---line 969 of file ieeetr.bst
+Warning--empty publisher in Mahesh_Mishra
+Warning--empty school in SrinivasBhaskar
+Name 2 in "{U. K. Rao} and {Mahesh K. Mishra}, and Ghosh, A." has a comma at the end for entry 4519806
+while executing---line 969 of file ieeetr.bst
+Warning--empty school in ManikPradhan
+(There were 143 error messages)

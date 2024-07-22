@@ -1,0 +1,2872 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.5.27)  19 JUN 2024 08:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./thesis.tex
+(thesis.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30> (iitmdiss.cls
+Document Class: iitmdiss 2005/03/09 Class for IIT-Madras Dissertations
+(C:\Program Files\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/emptypage\emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(atbeginend.sty)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen149
+\captionmargin=\dimen150
+\caption@leftmargin=\dimen151
+\caption@rightmargin=\dimen152
+\caption@width=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count197
+\c@continuedfloat=\count198
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip50
+\bibsep=\skip51
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count199
+))
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/libertine\libertine.sty
+Package: libertine 2022/09/12 (Bob Tennent) Supports Libertine and Biolinum fon
+ts for all LaTeX engines.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count266
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 483.
+
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/libertine\LinLibertine_I.tex))
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(C:\Program Files\MiKTeX\tex/latex/base\t1enc.sty
+Package: t1enc 1994/06/01 Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen157
+\pgfutil@tempdimb=\dimen158
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box51
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.
+tex
+\pgfkeys@tmptoks=\toks23
+))
+\pgf@x=\dimen161
+\pgf@y=\dimen162
+\pgf@xa=\dimen163
+\pgf@ya=\dimen164
+\pgf@xb=\dimen165
+\pgf@yb=\dimen166
+\pgf@xc=\dimen167
+\pgf@yc=\dimen168
+\pgf@xd=\dimen169
+\pgf@yd=\dimen170
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count267
+\c@pgf@countb=\count268
+\c@pgf@countc=\count269
+\c@pgf@countd=\count270
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+\pgf@sys@id@count=\count271
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count272
+\pgfsyssoftpath@bigbuffer@items=\count273
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen171
+\pgfmath@count=\count274
+\pgfmath@box=\box52
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.co
+de.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.
+tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmeti
+cs.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count275
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen172
+\pgf@picmaxx=\dimen173
+\pgf@picminy=\dimen174
+\pgf@picmaxy=\dimen175
+\pgf@pathminx=\dimen176
+\pgf@pathmaxx=\dimen177
+\pgf@pathminy=\dimen178
+\pgf@pathmaxy=\dimen179
+\pgf@xx=\dimen180
+\pgf@xy=\dimen181
+\pgf@yx=\dimen182
+\pgf@yy=\dimen183
+\pgf@zx=\dimen184
+\pgf@zy=\dimen185
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.t
+ex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen186
+\pgf@path@lasty=\dimen187
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen188
+\pgf@shorten@start@additional=\dimen189
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box53
+\pgf@hbox=\box54
+\pgf@layerbox@main=\box55
+\pgf@picture@serial@count=\count276
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.te
+x
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen190
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code
+.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen191
+\pgf@pt@y=\dimen192
+\pgf@pt@temp=\dimen193
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.
+tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen194
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen195
+\pgf@sys@shading@range@num=\count277
+\pgf@shadingcount=\count278
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box56
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.te
+x
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box57
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen196
+\pgf@nodesepend=\dimen197
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen198
+\ar@mcellbox=\box58
+\extrarowheight=\dimen199
+\NC@list=\toks30
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box59
+)
+\everycr=\toks31
+\minrowclearance=\skip54
+\rownum=\count279
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.st
+y
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\lokes\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestrin
+g.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count280
+) (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count281
+)
+\@linkdim=\dimen256
+\Hy@linkcounter=\count282
+\Hy@pagecounter=\count283
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count284
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count285
+
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen257
+
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count286
+\Field@Width=\dimen258
+\Fld@charsize=\dimen259
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+
+(C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count287
+\c@Item=\count288
+\c@Hfootnote=\count289
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+
+(C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count290
+\c@bookmark@seq@number=\count291
+
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.
+sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.
+sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip55
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip56
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen260
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen261
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count292
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count293
+\leftroot@=\count294
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count295
+\DOTSCASE@=\count296
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box60
+\strutbox@=\box61
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen262
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count297
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count298
+\dotsspace@=\muskip17
+\c@parentequation=\count299
+\dspbrk@lvl=\count300
+\tag@help=\toks33
+\row@=\count301
+\column@=\count302
+\maxfields@=\count303
+\andhelp@=\toks34
+\eqnshift@=\dimen263
+\alignsep@=\dimen264
+\tagshift@=\dimen265
+\tagwidth@=\dimen266
+\totwidth@=\dimen267
+\lineht@=\dimen268
+\@envbody=\toks35
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Program Files\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count304
+\rotFPtop=\skip59
+\rotFPbot=\skip60
+\rot@float@box=\box62
+\rot@mess@toks=\toks37
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks38
+\AP@partial=\box63
+\AP@footins=\box64
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count305
+\float@exts=\toks39
+\float@box=\box65
+\@float@everytoks=\toks40
+\@floatcapt=\box66
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2023-04-13 v3.2.5 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen269
+\l__siunitx_angle_marker_box=\box67
+\l__siunitx_angle_unit_box=\box68
+\l__siunitx_compound_count_int=\count306
+
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/translations\translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+)
+\l__siunitx_number_exponent_fixed_int=\count307
+\l__siunitx_number_min_decimal_int=\count308
+\l__siunitx_number_min_integer_int=\count309
+\l__siunitx_number_round_precision_int=\count310
+\l__siunitx_number_lower_threshold_int=\count311
+\l__siunitx_number_upper_threshold_int=\count312
+\l__siunitx_number_group_first_int=\count313
+\l__siunitx_number_group_size_int=\count314
+\l__siunitx_number_group_minimum_int=\count315
+\l__siunitx_table_tmp_box=\box69
+\l__siunitx_table_tmp_dim=\dimen270
+\l__siunitx_table_column_width_dim=\dimen271
+\l__siunitx_table_integer_box=\box70
+\l__siunitx_table_decimal_box=\box71
+\l__siunitx_table_uncert_box=\box72
+\l__siunitx_table_before_box=\box73
+\l__siunitx_table_after_box=\box74
+\l__siunitx_table_before_dim=\dimen272
+\l__siunitx_table_carry_dim=\dimen273
+\l__siunitx_unit_tmp_int=\count316
+\l__siunitx_unit_position_int=\count317
+\l__siunitx_unit_total_int=\count318
+) (C:\Program Files\MiKTeX\tex/latex/tabu\tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+
+(C:\Program Files\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box75
+\sift@deathcycles=\count319
+\@vwid@loff=\dimen274
+\@vwid@roff=\dimen275
+)
+\c@taburow=\count320
+\tabu@nbcols=\count321
+\tabu@cnt=\count322
+\tabu@Xcol=\count323
+\tabu@alloc=\count324
+\tabu@nested=\count325
+\tabu@target=\dimen276
+\tabu@spreadtarget=\dimen277
+\tabu@naturalX=\dimen278
+\tabucolX=\dimen279
+\tabu@Xsum=\dimen280
+\extrarowdepth=\dimen281
+\abovetabulinesep=\dimen282
+\belowtabulinesep=\dimen283
+\tabustrutrule=\dimen284
+\tabu@thebody=\toks41
+\tabu@footnotes=\toks42
+\tabu@box=\box76
+\tabu@arstrutbox=\box77
+\tabu@hleads=\box78
+\tabu@vleads=\box79
+\tabu@cellskip=\skip61
+)
+(C:\Program Files\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box80
+\UL@hyphenbox=\box81
+\UL@skip=\skip62
+\UL@hook=\toks43
+\UL@height=\dimen285
+\UL@pe=\count326
+\UL@pixel=\dimen286
+\ULC@box=\box82
+Package: ulem 2019/11/18
+\ULdepth=\dimen287
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen288
+\pgffor@skip=\dimen289
+\pgffor@stack=\toks44
+\pgffor@toks=\toks45
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.
+tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count327
+\pgfplotmarksize=\dimen290
+)
+\tikz@lastx=\dimen291
+\tikz@lasty=\dimen292
+\tikz@lastxsaved=\dimen293
+\tikz@lastysaved=\dimen294
+\tikz@lastmovetox=\dimen295
+\tikz@lastmovetoy=\dimen296
+\tikzleveldistance=\dimen297
+\tikzsiblingdistance=\dimen298
+\tikz@figbox=\box83
+\tikz@figbox@bg=\box84
+\tikz@tempbox=\box85
+\tikz@tempbox@bg=\box86
+\tikztreelevel=\count328
+\tikznumberofchildren=\count329
+\tikznumberofcurrentchild=\count330
+\tikz@fig@count=\count331
+ (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count332
+\pgfmatrixcurrentcolumn=\count333
+\pgf@matrix@numberofcolumns=\count334
+)
+\tikz@expandcount=\count335
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Program Files\MiKTeX\tex/latex/circuitikz\circuitikz.sty
+Package: circuitikz 2023/06/23{} The CircuiTikz circuit drawing package version
+ 1.6.3
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.t
+ex
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen299
+\pgfarrowlength=\dimen300
+\pgfarrowwidth=\dimen301
+\pgfarrowlinewidth=\dimen302
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rybending.code.tex
+File: tikzlibrarybending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulebending.code.tex
+File: pgfmodulebending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulenonlineartransformati
+ons.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgftransformnonlinearflatness=\dimen303
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibrarycurvilinear.code.t
+ex
+File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@curvilinear@time@a=\dimen304
+\pgf@curvilinear@length@a=\dimen305
+\pgf@curvilinear@length@b=\dimen306
+\pgf@curvilinear@length@c=\dimen307
+\pgf@curvilinear@length@d=\dimen308
+)
+\pgf@arrows@the@rigidity=\dimen309
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryfpu.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/circuitikz\pgfcirc.defines.tex
+\pgf@circ@count@a=\count336
+\pgf@circ@count@b=\count337
+\pgf@circ@count@c=\count338
+\pgf@circ@res@up=\dimen310
+\pgf@circ@res@down=\dimen311
+\pgf@circ@res@zero=\dimen312
+\pgf@circ@res@left=\dimen313
+\pgf@circ@res@right=\dimen314
+\pgf@circ@res@other=\dimen315
+\pgf@circ@res@step=\dimen316
+\pgf@circ@res@temp=\dimen317
+\pgf@circ@Rlen=\dimen318
+\pgf@circ@scaled@Rlen=\dimen319
+\pgfstartlinewidth=\dimen320
+)
+(C:\Program Files\MiKTeX\tex/generic/circuitikz\pgfcircutils.tex
+\ctikz@scratchbox=\box87
+)
+(C:\Program Files\MiKTeX\tex/generic/circuitikz\pgfcircpath.tex)
+(C:\Program Files\MiKTeX\tex/generic/circuitikz\pgfcircshapes.tex)
+(C:\Program Files\MiKTeX\tex/generic/circuitikz\pgfcircmonopoles.tex)
+(C:\Program Files\MiKTeX\tex/generic/circuitikz\pgfcircbipoles.tex)
+(C:\Program Files\MiKTeX\tex/generic/circuitikz\pgfcirctripoles.tex
+\pgf@circ@res@count=\count339
+)
+(C:\Program Files\MiKTeX\tex/generic/circuitikz\pgfcircquadpoles.tex)
+(C:\Program Files\MiKTeX\tex/generic/circuitikz\pgfcircmultipoles.tex)
+(C:\Program Files\MiKTeX\tex/generic/circuitikz\pgfcirclabel.tex)
+(C:\Program Files\MiKTeX\tex/generic/circuitikz\pgfcircvoltage.tex
+\pgfcirc@labelshift=\dimen321
+)
+(C:\Program Files\MiKTeX\tex/generic/circuitikz\pgfcirccurrent.tex)
+(C:\Program Files\MiKTeX\tex/generic/circuitikz\pgfcircflow.tex))
+(C:\Program Files\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks46
+\t@pgfplots@tokb=\toks47
+\t@pgfplots@tokc=\toks48
+\pgfplots@tmpa=\dimen322
+\c@pgfplots@coordindex=\count340
+\c@pgfplots@scanlineindex=\count341
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp
+_loader.code.tex
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks49
+\t@pgf@tokb=\toks50
+\t@pgf@tokc=\toks51
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp
+_pgfutil-common-lists.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructu
+re.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructu
+reext.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.
+tex
+\c@pgfplotsarray@tmp=\count342
+)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code
+.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code
+.tex
+\c@pgfplotstable@counta=\count343
+\t@pgfplotstable@a=\toks52
+)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.
+tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex
+))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshadi
+ng.code.tex
+\c@pgfplotslibrarysurf@no=\count344
+
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshadin
+g.pgfsys-pdftex.def)))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen323
+\pgfdecoratedremainingdistance=\dimen324
+\pgfdecoratedinputsegmentcompleteddistance=\dimen325
+\pgfdecoratedinputsegmentremainingdistance=\dimen326
+\pgf@decorate@distancetomove=\dimen327
+\pgf@decorate@repeatstate=\count345
+\pgfdecorationsegmentamplitude=\dimen328
+\pgfdecorationsegmentlength=\dimen329
+)
+\tikz@lib@dec@box=\box88
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.pathmorphing.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecora
+tions.pathmorphing.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rydecorations.pathreplacing.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecora
+tions.pathreplacing.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourl
+ua.code.tex)
+\pgfplots@numplots=\count346
+\pgfplots@xmin@reg=\dimen330
+\pgfplots@xmax@reg=\dimen331
+\pgfplots@ymin@reg=\dimen332
+\pgfplots@ymax@reg=\dimen333
+\pgfplots@zmin@reg=\dimen334
+\pgfplots@zmax@reg=\dimen335
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen336
+\lightrulewidth=\dimen337
+\cmidrulewidth=\dimen338
+\belowrulesep=\dimen339
+\belowbottomsep=\dimen340
+\aboverulesep=\dimen341
+\abovetopsep=\dimen342
+\cmidrulesep=\dimen343
+\cmidrulekern=\dimen344
+\defaultaddspace=\dimen345
+\@cmidla=\count347
+\@cmidlb=\count348
+\@aboverulesep=\dimen346
+\@belowrulesep=\dimen347
+\@thisruleclass=\count349
+\@lastruleclass=\count350
+\@thisrulewidth=\dimen348
+)
+(C:\Program Files\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip63
+\multirow@cntb=\count351
+\multirow@dima=\skip64
+\bigstrutjot=\dimen349
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen350
+\TX@old@table=\dimen351
+\TX@old@col=\dimen352
+\TX@target=\dimen353
+\TX@delta=\dimen354
+\TX@cols=\count352
+\TX@ftn=\toks53
+)
+(C:\Program Files\MiKTeX\tex/latex/anyfontsize\anyfontsize.sty
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count353
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count354
+)
+(C:\Program Files\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(C:\Program Files\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count355
+))
+(C:\Program Files\MiKTeX\tex/latex/cleveref\cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+)
+(C:\Program Files\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
+
+(C:\Program Files\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count356
+\calc@Bcount=\count357
+\calc@Adimen=\dimen355
+\calc@Bdimen=\dimen356
+\calc@Askip=\skip65
+\calc@Bskip=\skip66
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count358
+\calc@Cskip=\skip67
+)
+(C:\Program Files\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen357
+\ESO@tempdimb=\dimen358
+)
+\AM@pagewidth=\dimen359
+\AM@pageheight=\dimen360
+\AM@fboxrule=\dimen361
+
+(C:\Program Files\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count359
+\AM@pagebox=\box89
+\AM@global@opts=\toks54
+\AM@pagecnt=\count360
+\AM@toc@title=\toks55
+\AM@lof@heading=\toks56
+\c@AM@survey=\count361
+\AM@templatesizebox=\box90
+)
+(C:\Program Files\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box91
+\beforetitleunit=\skip68
+\aftertitleunit=\skip69
+\ttl@plus=\dimen362
+\ttl@minus=\dimen363
+\ttl@toksa=\toks57
+\titlewidth=\dimen364
+\titlewidthlast=\dimen365
+\titlewidthfirst=\dimen366
+)
+(C:\Program Files\MiKTeX\tex/latex/titlesec\titletoc.sty
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen367
+)
+(C:\Program Files\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip70
+\enit@outerparindent=\dimen368
+\enit@toks=\toks58
+\enit@inbox=\box92
+\enit@count@id=\count362
+\enitdp@description=\count363
+)
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/notoccite\notoccite.sty
+Package: notoccite 2000/07/20
+)
+Package hyperref Info: Option `colorlinks' set `false' on input line 85.
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 86.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 86
+.
+
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count364
+\l__pdf_internal_box=\box93
+) (thesis.aux)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(90.19522pt, 417.11743pt, 90.19522pt)
+* v-part:(T,H,B)=(72.26997pt, 676.0375pt, 96.73936pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=417.11743pt
+* \textheight=676.0375pt
+* \oddsidemargin=17.92523pt
+* \evensidemargin=17.92523pt
+* \topmargin=-0.00002pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=48.36967pt
+* \marginparwidth=85.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@mv@tabular=\count365
+\c@mv@boldtabular=\count366
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count367
+\scratchdimen=\dimen369
+\scratchbox=\box94
+\nofMPsegments=\count368
+\nofMParguments=\count369
+\everyMPshowfont=\toks59
+\MPscratchCnt=\count370
+\MPscratchDim=\dimen370
+\MPnumerator=\count371
+\makeMPintoPDFobject=\count372
+\everyMPtoPDFconversion=\toks60
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 86.
+
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/translations/dicts\translation
+s-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 86.
+
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
+your preamble.
+ on input line 86.
+
+(C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(FrontPages/TitlePage.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 440.44795pt, 71.70166pt)
+* v-part:(T,H,B)=(56.9055pt, 759.6886pt, 28.45274pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=440.44795pt
+* \textheight=759.6886pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-0.56833pt
+* \topmargin=-15.36449pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=48.36967pt
+* \marginparwidth=85.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
+
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
+
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<1200px-IIT_Madras_Logo.png, id=6, 1204.5pt x 1204.5pt>
+File: 1200px-IIT_Madras_Logo.png Graphic file (type png)
+<use 1200px-IIT_Madras_Logo.png>
+Package pdftex.def Info: 1200px-IIT_Madras_Logo.png  used on input line 20.
+(pdftex.def)             Requested size: 85.35284pt x 85.35284pt.
+
+Overfull \hbox (11.49634pt too wide) in paragraph at lines 18--23
+[][] 
+ []
+
+
+Overfull \hbox (81.09488pt too wide) in paragraph at lines 26--27
+[]  [] 
+ []
+
+<figures/Chapter_6/Mine/4leg_UPQC_L.pdf, id=8, 526.96875pt x 250.68657pt>
+File: figures/Chapter_6/Mine/4leg_UPQC_L.pdf Graphic file (type pdf)
+<use figures/Chapter_6/Mine/4leg_UPQC_L.pdf>
+Package pdftex.def Info: figures/Chapter_6/Mine/4leg_UPQC_L.pdf  used on input 
+line 42.
+(pdftex.def)             Requested size: 263.48372pt x 125.34297pt.
+
+Overfull \hbox (36.00844pt too wide) in paragraph at lines 29--60
+[]  []
+ []
+
+[1
+
+
+{C:/Users/lokes/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Fi
+les/MiKTeX/fonts/enc/dvips/base/8r.enc} <./1200px-IIT_Madras_Logo.png> <./figur
+es/Chapter_6/Mine/4leg_UPQC_L.pdf>]) (FrontPages/InnerTitlePage.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 440.44795pt, 71.70166pt)
+* v-part:(T,H,B)=(56.9055pt, 759.6886pt, 28.45274pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=440.44795pt
+* \textheight=759.6886pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-0.56833pt
+* \topmargin=-15.36449pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=48.36967pt
+* \marginparwidth=85.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+File: 1200px-IIT_Madras_Logo.png Graphic file (type png)
+<use 1200px-IIT_Madras_Logo.png>
+Package pdftex.def Info: 1200px-IIT_Madras_Logo.png  used on input line 20.
+(pdftex.def)             Requested size: 85.35284pt x 85.35284pt.
+
+Overfull \hbox (11.49634pt too wide) in paragraph at lines 18--23
+[][] 
+ []
+
+
+Overfull \hbox (81.09488pt too wide) in paragraph at lines 26--27
+[]  [] 
+ []
+
+File: figures/Chapter_6/Mine/4leg_UPQC_L.pdf Graphic file (type pdf)
+<use figures/Chapter_6/Mine/4leg_UPQC_L.pdf>
+Package pdftex.def Info: figures/Chapter_6/Mine/4leg_UPQC_L.pdf  used on input 
+line 42.
+(pdftex.def)             Requested size: 263.48372pt x 125.34297pt.
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 6
+3.
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 63.
+
+Overfull \hbox (36.00844pt too wide) in paragraph at lines 29--65
+[]  []
+ []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.65 \end{titlepage}
+                     [1
+
+]) [2
+
+]
+Certificate
+(FrontPages/Certificate.tex)
+Overfull \hbox (18.78258pt too wide) in paragraph at lines 16--108
+[]|  $[]$
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1]
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.108 \listofpublications
+                          [2
+
+]
+LaTeX Font Info:    Calculating math sizes for size <15> on input line 108.
+ (Publications/publications.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1]
+(FrontPages/Acknowledgement.tex [2
+
+]) (Abstract/Abstract.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \abstract
+              [1]
+pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \abstract
+              [2
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+(thesis.toc [5
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+[7])
+\tf@toc=\write4
+\openout4 = `thesis.toc'.
+
+ [8] (thesis.lot)
+\tf@lot=\write5
+\openout5 = `thesis.lot'.
+
+ [9
+
+] [10
+
+] (thesis.lof [11]
+Underfull \vbox (badness 1502) has occurred while \output is active []
+
+ [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14])
+\tf@lof=\write6
+\openout6 = `thesis.lof'.
+
+
+(Abbreviations/Abbreviations.tex [15] [16
+
+] [17])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+(Abbreviations/Notations.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19
+
+]
+(Chapters/chapter1.tex [0
+
+]
+CHAPTER 1.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.7 
+     [1]
+<figures/Chapter_1_2/fig1p1.pdf, id=648, 365.11406pt x 204.765pt>
+File: figures/Chapter_1_2/fig1p1.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/fig1p1.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/fig1p1.pdf  used on input line 20.
+
+(pdftex.def)             Requested size: 365.11316pt x 204.76448pt.
+
+Underfull \vbox (badness 1406) has occurred while \output is active []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28 
+      [2]
+<figures/Chapter_1_2/fig1p2.pdf, id=662, 364.36125pt x 199.49532pt>
+File: figures/Chapter_1_2/fig1p2.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/fig1p2.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/fig1p2.pdf  used on input line 31.
+
+(pdftex.def)             Requested size: 364.36035pt x 199.49481pt.
+ [3 <./figures/Chapter_1_2/fig1p1.pdf> <./figures/Chapter_1_2/fig1p2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_1_2/fig1p2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+>]
+<figures/Chapter_1_2/fig1p3.pdf, id=688, 465.23813pt x 210.03468pt>
+File: figures/Chapter_1_2/fig1p3.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/fig1p3.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/fig1p3.pdf  used on input line 43.
+
+(pdftex.def)             Requested size: 409.41081pt x 184.83109pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./figures/Chapter_1_2/fig1p3.pdf>]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 5
+8.
+
+(C:\Users\lokes\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 3312) has occurred while \output is active []
+
+ [7]
+[8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9])
+(Chapters/chapter2.tex [10]
+CHAPTER 2.
+[11
+
+]
+<figures/Chapter_1_2/fig2p2.pdf, id=808, 465.23813pt x 210.03468pt>
+File: figures/Chapter_1_2/fig2p2.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/fig2p2.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/fig2p2.pdf  used on input line 16.
+
+(pdftex.def)             Requested size: 409.41081pt x 184.83109pt.
+<figures/Chapter_1_2/fig2p3.pdf, id=809, 465.23813pt x 210.03468pt>
+File: figures/Chapter_1_2/fig2p3.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/fig2p3.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/fig2p3.pdf  used on input line 24.
+
+(pdftex.def)             Requested size: 409.41081pt x 184.83109pt.
+
+Underfull \vbox (badness 3009) has occurred while \output is active []
+
+ [12 <./figures/Chapter_1_2/fig2p2.pdf>]
+<figures/Chapter_1_2/BTB.pdf, id=831, 323.70938pt x 312.41719pt>
+File: figures/Chapter_1_2/BTB.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/BTB.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/BTB.pdf  used on input line 51.
+(pdftex.def)             Requested size: 284.86513pt x 274.92796pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13 <./figures/Chapter_1_2/fig2p3.pdf>]
+<figures/Chapter_1_2/DOC.pdf, id=847, 321.45094pt x 242.40562pt>
+File: figures/Chapter_1_2/DOC.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/DOC.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/DOC.pdf  used on input line 59.
+(pdftex.def)             Requested size: 282.8777pt x 213.31758pt.
+<figures/Chapter_1_2/Switching_Diagram_NSC.pdf, id=848, 342.5297pt x 271.76532p
+t>
+File: figures/Chapter_1_2/Switching_Diagram_NSC.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/Switching_Diagram_NSC.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/Switching_Diagram_NSC.pdf  used on
+ input line 112.
+(pdftex.def)             Requested size: 301.42706pt x 239.1542pt.
+ [14 <./figures/Chapter_1_2/BTB.pdf>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/Chapter_1_2/Direct_modul.pdf, id=903, 445.665pt x 249.93375pt>
+File: figures/Chapter_1_2/Direct_modul.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/Direct_modul.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/Direct_modul.pdf  used on input li
+ne 123.
+(pdftex.def)             Requested size: 445.66391pt x 249.93314pt.
+
+Overfull \hbox (28.54648pt too wide) in paragraph at lines 123--124
+ [][] 
+ []
+
+[15 <./figures/Chapter_1_2/DOC.pdf>] [16]
+Underfull \vbox (badness 1789) has occurred while \output is active []
+
+ [17 <./figures/Chapter_1_2/Switching_Diagram_NSC.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18 <./figures/Chapter_1_2/Direct_modul.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 162.
+
+<figures/Chapter_6/Mine/NS_UPQC_L.pdf, id=1206, 544.28343pt x 249.93375pt>
+File: figures/Chapter_6/Mine/NS_UPQC_L.pdf Graphic file (type pdf)
+<use figures/Chapter_6/Mine/NS_UPQC_L.pdf>
+Package pdftex.def Info: figures/Chapter_6/Mine/NS_UPQC_L.pdf  used on input li
+ne 164.
+(pdftex.def)             Requested size: 544.2821pt x 249.93314pt.
+<figures/Chapter_1_2/fig3.pdf, id=1213, 587.94656pt x 209.28188pt>
+File: figures/Chapter_1_2/fig3.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/fig3.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/fig3.pdf  used on input line 174.
+(pdftex.def)             Requested size: 411.55978pt x 146.49629pt.
+[20] [21 <./figures/Chapter_6/Mine/NS_UPQC_L.pdf>] [22 <./figures/Chapter_1_2/f
+ig3.pdf>]
+<figures/Chapter_1_2/fig4.pdf, id=1340, 391.4625pt x 124.96687pt>
+File: figures/Chapter_1_2/fig4.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/fig4.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/fig4.pdf  used on input line 188.
+(pdftex.def)             Requested size: 391.46153pt x 124.96657pt.
+<figures/Chapter_1_2/fig5.pdf, id=1345, 441.14813pt x 179.16937pt>
+File: figures/Chapter_1_2/fig5.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/fig5.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/fig5.pdf  used on input line 196.
+(pdftex.def)             Requested size: 419.08835pt x 170.20993pt.
+
+Overfull \hbox (1.97092pt too wide) in paragraph at lines 196--197
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23 <./figures/Chapter_1_2/fig4.pdf>] [24 <./figures/Chapter_1_2/fig5.pdf>]
+<figures/Chapter_1_2/fig2p4a.pdf, id=1442, 350.05782pt x 137.01187pt>
+File: figures/Chapter_1_2/fig2p4a.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/fig2p4a.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/fig2p4a.pdf  used on input line 21
+5.
+(pdftex.def)             Requested size: 385.06477pt x 150.71352pt.
+ [25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26 <./figures/Chapter_1_2/fig2p4a.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Underfull \vbox (badness 1558) has occurred while \output is active []
+
+ [28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+Underfull \vbox (badness 7667) has occurred while \output is active []
+
+ [31]
+[32]
+<figures/Chapter_1_2/fig2p4.pdf, id=1550, 350.05782pt x 137.01187pt>
+File: figures/Chapter_1_2/fig2p4.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/fig2p4.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/fig2p4.pdf  used on input line 420
+.
+(pdftex.def)             Requested size: 350.05695pt x 137.01154pt.
+ [33 <./figures/Chapter_1_2/fig2p4.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+Overfull \hbox (51.5602pt too wide) detected at line 495
+[][][]\U/msa/m/n/12 \ [] \OT1/cmr/m/n/12 = \U/msa/m/n/12 \ [] \OT1/cmr/m/n/12 +
+ \OML/cmm/m/it/12 '[]:
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+Overfull \hbox (33.06108pt too wide) detected at line 541
+\OML/cmm/m/it/12 M \OT1/cmr/m/n/12 = []\OML/cmm/m/it/12 :[][]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+[39]
+<figures/Chapter_1_2/c2_pre_sag.pdf, id=1657, 211.54031pt x 203.25937pt>
+File: figures/Chapter_1_2/c2_pre_sag.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/c2_pre_sag.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/c2_pre_sag.pdf  used on input line
+ 595.
+(pdftex.def)             Requested size: 179.81009pt x 172.77127pt.
+<figures/Chapter_1_2/c2_in_phase.pdf, id=1661, 275.52937pt x 211.54031pt>
+File: figures/Chapter_1_2/c2_in_phase.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/c2_in_phase.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/c2_in_phase.pdf  used on input lin
+e 613.
+(pdftex.def)             Requested size: 234.20107pt x 179.81009pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40 <./figures/Chapter_1_2/c2_pre_sag.pdf>]
+<figures/Chapter_1_2/c2_energy_optimize.pdf, id=1696, 307.90031pt x 203.25937pt
+>
+File: figures/Chapter_1_2/c2_energy_optimize.pdf Graphic file (type pdf)
+<use figures/Chapter_1_2/c2_energy_optimize.pdf>
+Package pdftex.def Info: figures/Chapter_1_2/c2_energy_optimize.pdf  used on in
+put line 632.
+(pdftex.def)             Requested size: 277.10771pt x 182.93173pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41 <./figures/Chapter_1_2/c2_in_phase.pdf>]
+Underfull \vbox (badness 1122) has occurred while \output is active []
+
+ [42 <./figures/Chapter_1_2/c2_energy_optimize.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
+[44]) (Chapters/chapter3.tex
+Underfull \vbox (badness 1648) has occurred while \output is active []
+
+ [45]
+[46]
+CHAPTER 3.
+[47
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 16.
+
+<figures/Chapter_3/Mine/SOGI-OSG.pdf, id=1826, 298.86656pt x 241.65282pt>
+File: figures/Chapter_3/Mine/SOGI-OSG.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/SOGI-OSG.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/SOGI-OSG.pdf  used on input lin
+e 18.
+(pdftex.def)             Requested size: 298.86581pt x 241.65222pt.
+
+Underfull \vbox (badness 1769) has occurred while \output is active []
+
+ [48]
+Underfull \vbox (badness 3029) has occurred while \output is active []
+
+ [49 <./figures/Chapter_3/Mine/SOGI-OSG.pdf>] [50]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 53.
+
+<figures/Chapter_3/Mine/SOGI-PLL.pdf, id=1891, 504.38437pt x 140.02313pt>
+File: figures/Chapter_3/Mine/SOGI-PLL.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/SOGI-PLL.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/SOGI-PLL.pdf  used on input lin
+e 55.
+(pdftex.def)             Requested size: 353.06665pt x 98.01552pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 69.
+
+<figures/Chapter_3/Mine/SOGI-PLL-3ph.pdf, id=1894, 648.17157pt x 221.32687pt>
+File: figures/Chapter_3/Mine/SOGI-PLL-3ph.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/SOGI-PLL-3ph.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/SOGI-PLL-3ph.pdf  used on input
+ line 71.
+(pdftex.def)             Requested size: 421.30652pt x 143.86075pt.
+
+Overfull \hbox (4.18909pt too wide) in paragraph at lines 71--72
+ [][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 75.
+
+<figures/Chapter_3/Mine/DSOGI-PLL.pdf, id=1895, 618.81187pt x 158.09062pt>
+File: figures/Chapter_3/Mine/DSOGI-PLL.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/DSOGI-PLL.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/DSOGI-PLL.pdf  used on input li
+ne 77.
+(pdftex.def)             Requested size: 402.22295pt x 102.75768pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51 <./figures/Chapter_3/Mine/SOGI-PLL.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 93.
+
+<figures/Chapter_3/Mine/MSOGI-PLL.pdf, id=1948, 353.82187pt x 257.46187pt>
+File: figures/Chapter_3/Mine/MSOGI-PLL.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/MSOGI-PLL.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/MSOGI-PLL.pdf  used on input li
+ne 95.
+(pdftex.def)             Requested size: 247.67361pt x 180.22206pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [52 <./figures/Chapter_3/Mine/SOGI-PLL-3ph.pdf> <./figures/Chapter_3/Mine/DSOG
+I-PLL.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_3/Mine/DSOGI-PLL.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+>] [53 <./figures/Chapter_3/Mine/MSOGI-PLL.pdf>]
+<figures/Chapter_3/Mine/DSC.pdf, id=2114, 364.36125pt x 161.10187pt>
+File: figures/Chapter_3/Mine/DSC.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/DSC.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/DSC.pdf  used on input line 116
+.
+(pdftex.def)             Requested size: 255.05113pt x 112.77052pt.
+
+Overfull \hbox (6.7309pt too wide) in paragraph at lines 132--163
+ [][] 
+ []
+
+[54 <./figures/Chapter_3/Mine/DSC.pdf>] [55]
+<figures/Chapter_3/Mine/DSC-CDSC-PLL.pdf, id=2159, 483.30562pt x 484.05844pt>
+File: figures/Chapter_3/Mine/DSC-CDSC-PLL.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/DSC-CDSC-PLL.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/DSC-CDSC-PLL.pdf  used on input
+ line 203.
+(pdftex.def)             Requested size: 338.31163pt x 338.8386pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56]
+[57 <./figures/Chapter_3/Mine/DSC-CDSC-PLL.pdf>]
+<figures/Chapter_3/Mine/ACD-CDSC-PLL.pdf, id=2241, 510.40688pt x 99.37125pt>
+File: figures/Chapter_3/Mine/ACD-CDSC-PLL.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/ACD-CDSC-PLL.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/ACD-CDSC-PLL.pdf  used on input
+ line 213.
+(pdftex.def)             Requested size: 357.28238pt x 69.55939pt.
+ [58 <./figures/Chapter_3/Mine/ACD-CDSC-PLL.pdf>]
+Overfull \hbox (34.06569pt too wide) detected at line 260
+[][][][] \OT1/cmr/m/n/12 = [] []
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 263.
+
+<figures/Chapter_3/Mine/SimRes1_new.pdf, id=2288, 413.29407pt x 251.43938pt>
+File: figures/Chapter_3/Mine/SimRes1_new.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/SimRes1_new.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/SimRes1_new.pdf  used on input 
+line 265.
+(pdftex.def)             Requested size: 413.29305pt x 251.43875pt.
+
+Underfull \vbox (badness 2065) has occurred while \output is active []
+
+ [59]
+<figures/Chapter_3/Mine/SimRes2_new.pdf, id=2298, 413.29407pt x 195.73125pt>
+File: figures/Chapter_3/Mine/SimRes2_new.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/SimRes2_new.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/SimRes2_new.pdf  used on input 
+line 288.
+(pdftex.def)             Requested size: 413.29305pt x 195.73076pt.
+<figures/Chapter_3/Mine/SimRes3_new.pdf, id=2299, 413.29407pt x 195.73125pt>
+File: figures/Chapter_3/Mine/SimRes3_new.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/SimRes3_new.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/SimRes3_new.pdf  used on input 
+line 294.
+(pdftex.def)             Requested size: 413.29305pt x 195.73076pt.
+<figures/Chapter_3/Mine/SimRes4_new.pdf, id=2300, 413.29407pt x 195.73125pt>
+File: figures/Chapter_3/Mine/SimRes4_new.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/SimRes4_new.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/SimRes4_new.pdf  used on input 
+line 300.
+(pdftex.def)             Requested size: 413.29305pt x 195.73076pt.
+
+[60 <./figures/Chapter_3/Mine/SimRes1_new.pdf>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[61 <./figures/Chapter_3/Mine/SimRes2_new.pdf> <./figures/Chapter_3/Mine/SimRes
+3_new.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_3/Mine/SimRes3_new.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 307.
+
+<figures/Chapter_3/Mine/SimRes5_new.pdf, id=2443, 413.29407pt x 197.23688pt>
+File: figures/Chapter_3/Mine/SimRes5_new.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/SimRes5_new.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/SimRes5_new.pdf  used on input 
+line 309.
+(pdftex.def)             Requested size: 413.29305pt x 197.23637pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 313.
+
+<figures/Chapter_3/Mine/SimRes6_new.pdf, id=2444, 413.29407pt x 209.28188pt>
+File: figures/Chapter_3/Mine/SimRes6_new.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/SimRes6_new.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/SimRes6_new.pdf  used on input 
+line 315.
+(pdftex.def)             Requested size: 413.29305pt x 209.28134pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 323.
+
+<figures/Chapter_3/Mine/SimRes7_new.pdf, id=2448, 413.29407pt x 375.65344pt>
+File: figures/Chapter_3/Mine/SimRes7_new.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/SimRes7_new.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/SimRes7_new.pdf  used on input 
+line 325.
+(pdftex.def)             Requested size: 413.29305pt x 375.65251pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 329.
+
+<figures/Chapter_3/Mine/SimRes8_new.pdf, id=2449, 413.29407pt x 197.98969pt>
+File: figures/Chapter_3/Mine/SimRes8_new.pdf Graphic file (type pdf)
+<use figures/Chapter_3/Mine/SimRes8_new.pdf>
+Package pdftex.def Info: figures/Chapter_3/Mine/SimRes8_new.pdf  used on input 
+line 331.
+(pdftex.def)             Requested size: 413.29305pt x 197.9892pt.
+[62 <./figures/Chapter_3/Mine/SimRes4_new.pdf>] [63 <./figures/Chapter_3/Mine/S
+imRes5_new.pdf> <./figures/Chapter_3/Mine/SimRes6_new.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_3/Mine/SimRes6_new.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 1490) has occurred while \output is active []
+
+ [64 <./figures/Chapter_3/Mine/SimRes7_new.pdf>] [65 <./figures/Chapter_3/Mine/
+SimRes8_new.pdf>]) (Chapters/chapter4.tex [66]
+CHAPTER 4.
+[67
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [68]
+<figures/Chapter_4/Mine/4leg_DSTATCOM.pdf, id=2729, 563.85657pt x 250.68657pt>
+File: figures/Chapter_4/Mine/4leg_DSTATCOM.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/4leg_DSTATCOM.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/4leg_DSTATCOM.pdf  used on inpu
+t line 17.
+(pdftex.def)             Requested size: 394.69691pt x 175.47939pt.
+
+[69 <./figures/Chapter_4/Mine/4leg_DSTATCOM.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70]
+[71]
+<figures/Chapter_4/Mine/APF_equ(a).pdf, id=2818, 229.60782pt x 137.7647pt>
+File: figures/Chapter_4/Mine/APF_equ(a).pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/APF_equ(a).pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/APF_equ(a).pdf  used on input l
+ine 120.
+(pdftex.def)             Requested size: 229.60725pt x 137.76434pt.
+<figures/Chapter_4/Mine/APF_equ(d).pdf, id=2819, 226.59656pt x 98.61844pt>
+File: figures/Chapter_4/Mine/APF_equ(d).pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/APF_equ(d).pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/APF_equ(d).pdf  used on input l
+ine 126.
+(pdftex.def)             Requested size: 226.596pt x 98.61818pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[72]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [73 <./figures/Chapter_4/Mine/APF_equ(a).pdf> <./figures/Chapter_4/Mine/APF_eq
+u(d).pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_4/Mine/APF_equ(d).pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/Chapter_4/Mine/Sigmoid.pdf, id=2901, 211.54031pt x 183.68625pt>
+File: figures/Chapter_4/Mine/Sigmoid.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/Sigmoid.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/Sigmoid.pdf  used on input line
+ 194.
+(pdftex.def)             Requested size: 211.53978pt x 183.68578pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [74]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75 <./figures/Chapter_4/Mine/Sigmoid.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [76]
+
+LaTeX Warning: Command \textunderscore invalid in math mode on input line 239.
+
+
+LaTeX Warning: Command \textunderscore invalid in math mode on input line 241.
+
+[77]
+<figures/Chapter_4/Mine/Control_Diagram.pdf, id=2971, 443.40656pt x 278.54062pt
+>
+File: figures/Chapter_4/Mine/Control_Diagram.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/Control_Diagram.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/Control_Diagram.pdf  used on in
+put line 252.
+(pdftex.def)             Requested size: 443.40547pt x 278.53993pt.
+
+Overfull \hbox (26.28804pt too wide) in paragraph at lines 252--253
+ [][] 
+ []
+
+[78]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79 <./figures/Chapter_4/Mine/Control_Diagram.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 297.
+
+[80]
+<figures/Chapter_4/Mine/SimRes1_new.pdf, id=3069, 413.29407pt x 463.7325pt>
+File: figures/Chapter_4/Mine/SimRes1_new.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/SimRes1_new.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/SimRes1_new.pdf  used on input 
+line 321.
+(pdftex.def)             Requested size: 371.96121pt x 417.35538pt.
+<figures/Chapter_4/Mine/SimRes2_new.pdf, id=3070, 411.03563pt x 436.63126pt>
+File: figures/Chapter_4/Mine/SimRes2_new.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/SimRes2_new.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/SimRes2_new.pdf  used on input 
+line 330.
+(pdftex.def)             Requested size: 369.92865pt x 392.9645pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 4429) has occurred while \output is active []
+
+ [81]
+[82 <./figures/Chapter_4/Mine/SimRes1_new.pdf>]
+Package epstopdf Info: Source file: <figures/Chapter_4/Mine/SimTHD1.eps>
+(epstopdf)                    date: 2023-05-20 04:25:44
+(epstopdf)                    size: 1490567 bytes
+(epstopdf)             Output file: <figures/Chapter_4/Mine/SimTHD1-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2023-07-09 18:03:52
+(epstopdf)                    size: 122731 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=figures/Chapter_4/Mi
+ne/SimTHD1-eps-converted-to.pdf figures/Chapter_4/Mine/SimTHD1.eps>
+(epstopdf)             \includegraphics on input line 345.
+Package epstopdf Info: Output file is already uptodate.
+<figures/Chapter_4/Mine/SimTHD1-eps-converted-to.pdf, id=3158, 408.52625pt x 21
+1.79124pt>
+File: figures/Chapter_4/Mine/SimTHD1-eps-converted-to.pdf Graphic file (type pd
+f)
+<use figures/Chapter_4/Mine/SimTHD1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/SimTHD1-eps-converted-to.pdf  u
+sed on input line 345.
+(pdftex.def)             Requested size: 367.67023pt x 190.61035pt.
+Package epstopdf Info: Source file: <figures/Chapter_4/Mine/SimTHD2.eps>
+(epstopdf)                    date: 2023-05-20 04:25:44
+(epstopdf)                    size: 1470548 bytes
+(epstopdf)             Output file: <figures/Chapter_4/Mine/SimTHD2-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2023-07-09 18:03:58
+(epstopdf)                    size: 130880 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=figures/Chapter_4/Mi
+ne/SimTHD2-eps-converted-to.pdf figures/Chapter_4/Mine/SimTHD2.eps>
+(epstopdf)             \includegraphics on input line 353.
+Package epstopdf Info: Output file is already uptodate.
+<figures/Chapter_4/Mine/SimTHD2-eps-converted-to.pdf, id=3159, 408.52625pt x 21
+1.79124pt>
+File: figures/Chapter_4/Mine/SimTHD2-eps-converted-to.pdf Graphic file (type pd
+f)
+<use figures/Chapter_4/Mine/SimTHD2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/SimTHD2-eps-converted-to.pdf  u
+sed on input line 353.
+(pdftex.def)             Requested size: 367.67023pt x 190.61035pt.
+ [83 <./figures/Chapter_4/Mine/SimRes2_new.pdf>]
+Package epstopdf Info: Source file: <figures/Chapter_4/Mine/Chattering_simulati
+on1.eps>
+(epstopdf)                    date: 2023-05-20 04:25:42
+(epstopdf)                    size: 296572 bytes
+(epstopdf)             Output file: <figures/Chapter_4/Mine/Chattering_simulati
+on1-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-07-09 18:04:02
+(epstopdf)                    size: 79035 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=figures/Chapter_4/Mi
+ne/Chattering_simulation1-eps-converted-to.pdf figures/Chapter_4/Mine/Chatterin
+g_simulation1.eps>
+(epstopdf)             \includegraphics on input line 364.
+Package epstopdf Info: Output file is already uptodate.
+<figures/Chapter_4/Mine/Chattering_simulation1-eps-converted-to.pdf, id=3234, 4
+14.54875pt x 219.82124pt>
+File: figures/Chapter_4/Mine/Chattering_simulation1-eps-converted-to.pdf Graphi
+c file (type pdf)
+<use figures/Chapter_4/Mine/Chattering_simulation1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/Chattering_simulation1-eps-conv
+erted-to.pdf  used on input line 364.
+(pdftex.def)             Requested size: 373.09042pt x 197.83728pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <figures/Chapter_4/Mine/Chattering_simulati
+on.eps>
+(epstopdf)                    date: 2023-05-20 04:25:42
+(epstopdf)                    size: 269982 bytes
+(epstopdf)             Output file: <figures/Chapter_4/Mine/Chattering_simulati
+on-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-07-09 18:04:06
+(epstopdf)                    size: 70936 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=figures/Chapter_4/Mi
+ne/Chattering_simulation-eps-converted-to.pdf figures/Chapter_4/Mine/Chattering
+_simulation.eps>
+(epstopdf)             \includegraphics on input line 372.
+Package epstopdf Info: Output file is already uptodate.
+<figures/Chapter_4/Mine/Chattering_simulation-eps-converted-to.pdf, id=3235, 41
+2.54124pt x 195.73125pt>
+File: figures/Chapter_4/Mine/Chattering_simulation-eps-converted-to.pdf Graphic
+ file (type pdf)
+<use figures/Chapter_4/Mine/Chattering_simulation-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/Chattering_simulation-eps-conve
+rted-to.pdf  used on input line 372.
+(pdftex.def)             Requested size: 371.28369pt x 176.15648pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[84 <./figures/Chapter_4/Mine/SimTHD1-eps-converted-to.pdf> <./figures/Chapter_
+4/Mine/SimTHD2-eps-converted-to.pdf>]
+Underfull \vbox (badness 6978) has occurred while \output is active []
+
+ [85 <./figures/Chapter_4/Mine/Chattering_simulation1-eps-converted-to.pdf> <./
+figures/Chapter_4/Mine/Chattering_simulation-eps-converted-to.pdf>]
+<figures/Chapter_4/Mine/Bar_Plot.pdf, id=3263, 843.90282pt x 350.81062pt>
+File: figures/Chapter_4/Mine/Bar_Plot.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/Bar_Plot.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/Bar_Plot.pdf  used on input lin
+e 384.
+(pdftex.def)             Requested size: 421.95038pt x 175.40488pt.
+
+Overfull \hbox (4.83295pt too wide) in paragraph at lines 384--385
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [86]
+Package epstopdf Info: Source file: <figures/Chapter_4/Mine/Hardware_Picture_mo
+dified.eps>
+(epstopdf)                    date: 2023-05-20 04:25:44
+(epstopdf)                    size: 332952 bytes
+(epstopdf)             Output file: <figures/Chapter_4/Mine/Hardware_Picture_mo
+dified-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-07-09 18:04:10
+(epstopdf)                    size: 187609 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=figures/Chapter_4/Mi
+ne/Hardware_Picture_modified-eps-converted-to.pdf figures/Chapter_4/Mine/Hardwa
+re_Picture_modified.eps>
+(epstopdf)             \includegraphics on input line 414.
+Package epstopdf Info: Output file is already uptodate.
+<figures/Chapter_4/Mine/Hardware_Picture_modified-eps-converted-to.pdf, id=3271
+, 428.60126pt x 263.98625pt>
+File: figures/Chapter_4/Mine/Hardware_Picture_modified-eps-converted-to.pdf Gra
+phic file (type pdf)
+<use figures/Chapter_4/Mine/Hardware_Picture_modified-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/Hardware_Picture_modified-eps-c
+onverted-to.pdf  used on input line 414.
+(pdftex.def)             Requested size: 428.6002pt x 263.9856pt.
+
+Overfull \hbox (11.48277pt too wide) in paragraph at lines 414--415
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <figures/Chapter_4/Mine/GridVoltages.eps>
+(epstopdf)                    date: 2023-05-20 04:25:44
+(epstopdf)                    size: 62691 bytes
+(epstopdf)             Output file: <figures/Chapter_4/Mine/GridVoltages-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2023-07-09 18:04:14
+(epstopdf)                    size: 39424 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=figures/Chapter_4/Mi
+ne/GridVoltages-eps-converted-to.pdf figures/Chapter_4/Mine/GridVoltages.eps>
+(epstopdf)             \includegraphics on input line 422.
+Package epstopdf Info: Output file is already uptodate.
+<figures/Chapter_4/Mine/GridVoltages-eps-converted-to.pdf, id=3272, 387.4475pt 
+x 144.54pt>
+File: figures/Chapter_4/Mine/GridVoltages-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+<use figures/Chapter_4/Mine/GridVoltages-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/GridVoltages-eps-converted-to.p
+df  used on input line 422.
+(pdftex.def)             Requested size: 325.45367pt x 121.41275pt.
+<figures/Chapter_4/Mine/LoadCurrents.pdf, id=3273, 387.69844pt x 141.52875pt>
+File: figures/Chapter_4/Mine/LoadCurrents.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/LoadCurrents.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/LoadCurrents.pdf  used on input
+ line 427.
+(pdftex.def)             Requested size: 325.66446pt x 118.88333pt.
+<figures/Chapter_4/Mine/SourceCurrents.pdf, id=3274, 387.69844pt x 143.03438pt>
+
+File: figures/Chapter_4/Mine/SourceCurrents.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/SourceCurrents.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/SourceCurrents.pdf  used on inp
+ut line 432.
+(pdftex.def)             Requested size: 325.66446pt x 120.14804pt.
+<figures/Chapter_4/Mine/FilterCurrents.pdf, id=3275, 387.69844pt x 226.59656pt>
+
+File: figures/Chapter_4/Mine/FilterCurrents.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/FilterCurrents.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/FilterCurrents.pdf  used on inp
+ut line 437.
+(pdftex.def)             Requested size: 325.66446pt x 190.3398pt.
+Package epstopdf Info: Source file: <figures/Chapter_4/Mine/LoadNPV.eps>
+(epstopdf)                    date: 2023-05-20 04:25:44
+(epstopdf)                    size: 38266 bytes
+(epstopdf)             Output file: <figures/Chapter_4/Mine/LoadNPV-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2023-07-09 18:09:14
+(epstopdf)                    size: 17602 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=figures/Chapter_4/Mi
+ne/LoadNPV-eps-converted-to.pdf figures/Chapter_4/Mine/LoadNPV.eps>
+(epstopdf)             \includegraphics on input line 442.
+Package epstopdf Info: Output file is already uptodate.
+<figures/Chapter_4/Mine/LoadNPV-eps-converted-to.pdf, id=3276, 386.44376pt x 11
+4.4275pt>
+File: figures/Chapter_4/Mine/LoadNPV-eps-converted-to.pdf Graphic file (type pd
+f)
+<use figures/Chapter_4/Mine/LoadNPV-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/LoadNPV-eps-converted-to.pdf  u
+sed on input line 442.
+(pdftex.def)             Requested size: 324.61053pt x 96.11844pt.
+
+LaTeX Warning: Float too large for page by 28.36484pt on input line 447.
+
+<figures/Chapter_4/Mine/UPF.pdf, id=3277, 371.13657pt x 142.28156pt>
+File: figures/Chapter_4/Mine/UPF.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/UPF.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/UPF.pdf  used on input line 450
+.
+(pdftex.def)             Requested size: 334.0198pt x 128.0522pt.
+Package epstopdf Info: Source file: <figures/Chapter_4/Mine/THD.eps>
+(epstopdf)                    date: 2023-05-20 04:25:44
+(epstopdf)                    size: 85644 bytes
+(epstopdf)             Output file: <figures/Chapter_4/Mine/THD-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2023-07-09 18:04:36
+(epstopdf)                    size: 34997 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=figures/Chapter_4/Mi
+ne/THD-eps-converted-to.pdf figures/Chapter_4/Mine/THD.eps>
+(epstopdf)             \includegraphics on input line 458.
+Package epstopdf Info: Output file is already uptodate.
+<figures/Chapter_4/Mine/THD-eps-converted-to.pdf, id=3286, 365.365pt x 254.9525
+pt>
+File: figures/Chapter_4/Mine/THD-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/THD-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/THD-eps-converted-to.pdf  used 
+on input line 458.
+(pdftex.def)             Requested size: 328.82545pt x 229.45511pt.
+[87 <./figures/Chapter_4/Mine/Bar_Plot.pdf>] [88 <./figures/Chapter_4/Mine/Hard
+ware_Picture_modified-eps-converted-to.pdf>] [89 <./figures/Chapter_4/Mine/Grid
+Voltages-eps-converted-to.pdf> <./figures/Chapter_4/Mine/LoadCurrents.pdf> <./f
+igures/Chapter_4/Mine/SourceCurrents.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_4/Mine/SourceCurrents.pdf)
+: PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/Chapter_4/Mine/FilterCurrents.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_4/Mine/FilterCurrents.pdf)
+: PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/Chapter_4/Mine/LoadNPV-eps-converted-to.pdf>]
+<figures/Chapter_4/Mine/LoadNPV1.pdf, id=3464, 387.69844pt x 130.23656pt>
+File: figures/Chapter_4/Mine/LoadNPV1.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/LoadNPV1.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/LoadNPV1.pdf  used on input lin
+e 468.
+(pdftex.def)             Requested size: 325.66446pt x 109.39795pt.
+<figures/Chapter_4/Mine/LoadCurrents1.pdf, id=3465, 387.69844pt x 141.52875pt>
+File: figures/Chapter_4/Mine/LoadCurrents1.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/LoadCurrents1.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/LoadCurrents1.pdf  used on inpu
+t line 473.
+(pdftex.def)             Requested size: 325.66446pt x 118.88333pt.
+<figures/Chapter_4/Mine/SourceCurrents1.pdf, id=3466, 387.69844pt x 143.03438pt
+>
+File: figures/Chapter_4/Mine/SourceCurrents1.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/SourceCurrents1.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/SourceCurrents1.pdf  used on in
+put line 478.
+(pdftex.def)             Requested size: 325.66446pt x 120.14804pt.
+<figures/Chapter_4/Mine/FilterCurrents1.pdf, id=3467, 387.69844pt x 226.59656pt
+>
+File: figures/Chapter_4/Mine/FilterCurrents1.pdf Graphic file (type pdf)
+<use figures/Chapter_4/Mine/FilterCurrents1.pdf>
+Package pdftex.def Info: figures/Chapter_4/Mine/FilterCurrents1.pdf  used on in
+put line 483.
+(pdftex.def)             Requested size: 325.66446pt x 190.3398pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [90 <./figures/Chapter_4/Mine/UPF.pdf>]
+Underfull \vbox (badness 1609) has occurred while \output is active []
+
+ [91 <./figures/Chapter_4/Mine/THD-eps-converted-to.pdf>] [92 <./figures/Chapte
+r_4/Mine/LoadNPV1.pdf> <./figures/Chapter_4/Mine/LoadCurrents1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_4/Mine/LoadCurrents1.pdf):
+ PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/Chapter_4/Mine/SourceCurrents1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_4/Mine/SourceCurrents1.pdf
+): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/Chapter_4/Mine/FilterCurrents1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_4/Mine/FilterCurrents1.pdf
+): PDF inclusion: multiple pdfs with page group included in a single page
+>] [93] [94
+
+]) (Chapters/chapter5.tex [95
+
+] [96
+
+]
+CHAPTER 5.
+[97]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [98]
+[99] [100]
+<figures/Chapter_5/Mine/4leg_DVR.pdf, id=3695, 732.48656pt x 299.61937pt>
+File: figures/Chapter_5/Mine/4leg_DVR.pdf Graphic file (type pdf)
+<use figures/Chapter_5/Mine/4leg_DVR.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/4leg_DVR.pdf  used on input lin
+e 63.
+(pdftex.def)             Requested size: 439.49532pt x 179.77301pt.
+
+Overfull \hbox (22.37788pt too wide) in paragraph at lines 63--64
+ [][] 
+ []
+
+[101
+
+
+ <./figures/Chapter_5/Mine/4leg_DVR.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [102]
+[103]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [104]
+<figures/Chapter_5/Mine/DVR_equ.pdf, id=3805, 358.33875pt x 335.75438pt>
+File: figures/Chapter_5/Mine/DVR_equ.pdf Graphic file (type pdf)
+<use figures/Chapter_5/Mine/DVR_equ.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/DVR_equ.pdf  used on input line
+ 168.
+(pdftex.def)             Requested size: 358.33788pt x 335.75356pt.
+<figures/Chapter_5/Mine/CMV_Thevenins.pdf, id=3806, 261.22594pt x 181.42781pt>
+File: figures/Chapter_5/Mine/CMV_Thevenins.pdf Graphic file (type pdf)
+<use figures/Chapter_5/Mine/CMV_Thevenins.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/CMV_Thevenins.pdf  used on inpu
+t line 174.
+(pdftex.def)             Requested size: 261.22528pt x 181.42737pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [105]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [106 <./figures/Chapter_5/Mine/DVR_equ.pdf> <./figures/Chapter_5/Mine/CMV_Thev
+enins.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_5/Mine/CMV_Thevenins.pdf):
+ PDF inclusion: multiple pdfs with page group included in a single page
+>] [107]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [108]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 285.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\lambda' on input line 285.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 285.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 285.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [109]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [110]
+<figures/Chapter_5/Mine/Reference_Generation.pdf, id=3989, 386.19281pt x 157.33
+781pt>
+File: figures/Chapter_5/Mine/Reference_Generation.pdf Graphic file (type pdf)
+<use figures/Chapter_5/Mine/Reference_Generation.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/Reference_Generation.pdf  used 
+on input line 476.
+(pdftex.def)             Requested size: 347.5703pt x 141.6027pt.
+<figures/Chapter_5/Mine/Control_Diagram1.pdf, id=3990, 408.02437pt x 134.00063p
+t>
+File: figures/Chapter_5/Mine/Control_Diagram1.pdf Graphic file (type pdf)
+<use figures/Chapter_5/Mine/Control_Diagram1.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/Control_Diagram1.pdf  used on i
+nput line 482.
+(pdftex.def)             Requested size: 367.21854pt x 120.59943pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [111]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [112 <./figures/Chapter_5/Mine/Reference_Generation.pdf> <./figures/Chapter_5/
+Mine/Control_Diagram1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_5/Mine/Control_Diagram1.pd
+f): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 534.
+
+<figures/Chapter_5/Mine/Res11.pdf, id=4081, 827.34094pt x 197.98969pt>
+File: figures/Chapter_5/Mine/Res11.pdf Graphic file (type pdf)
+<use figures/Chapter_5/Mine/Res11.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/Res11.pdf  used on input line 5
+35.
+(pdftex.def)             Requested size: 661.87366pt x 158.39195pt.
+<figures/Chapter_5/Mine/Res21.pdf, id=4082, 827.34094pt x 182.93344pt>
+File: figures/Chapter_5/Mine/Res21.pdf Graphic file (type pdf)
+<use figures/Chapter_5/Mine/Res21.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/Res21.pdf  used on input line 5
+38.
+(pdftex.def)             Requested size: 661.87366pt x 146.34694pt.
+
+Underfull \vbox (badness 5681) has occurred while \output is active []
+
+ [113]
+[114] [115 <./figures/Chapter_5/Mine/Res11.pdf> <./figures/Chapter_5/Mine/Res21
+.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_5/Mine/Res21.pdf): PDF inc
+lusion: multiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 555.
+
+<figures/Chapter_5/Mine/Res31.pdf, id=4189, 425.33907pt x 185.19188pt>
+File: figures/Chapter_5/Mine/Res31.pdf Graphic file (type pdf)
+<use figures/Chapter_5/Mine/Res31.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/Res31.pdf  used on input line 5
+57.
+(pdftex.def)             Requested size: 425.33801pt x 185.1914pt.
+
+Overfull \hbox (8.22058pt too wide) in paragraph at lines 557--558
+ [][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 561.
+
+<figures/Chapter_5/Mine/Res41.pdf, id=4190, 811.53188pt x 311.66437pt>
+File: figures/Chapter_5/Mine/Res41.pdf Graphic file (type pdf)
+<use figures/Chapter_5/Mine/Res41.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/Res41.pdf  used on input line 5
+62.
+(pdftex.def)             Requested size: 649.22638pt x 249.33183pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [116]
+<figures/Chapter_5/Mine/Hardware_Picture_modified.pdf, id=4203, 428.35031pt x 2
+64.99pt>
+File: figures/Chapter_5/Mine/Hardware_Picture_modified.pdf Graphic file (type p
+df)
+<use figures/Chapter_5/Mine/Hardware_Picture_modified.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/Hardware_Picture_modified.pdf  
+used on input line 578.
+(pdftex.def)             Requested size: 385.5117pt x 238.48878pt.
+
+[117 <./figures/Chapter_5/Mine/Res31.pdf>] [118 <./figures/Chapter_5/Mine/Res41
+.pdf>]
+<figures/Chapter_5/Mine/BalancedSag.pdf, id=4312, 417.81094pt x 341.77687pt>
+File: figures/Chapter_5/Mine/BalancedSag.pdf Graphic file (type pdf)
+<use figures/Chapter_5/Mine/BalancedSag.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/BalancedSag.pdf  used on input 
+line 588.
+(pdftex.def)             Requested size: 417.80992pt x 341.77603pt.
+
+Overfull \hbox (0.69249pt too wide) in paragraph at lines 588--589
+ [][] 
+ []
+
+[119 <./figures/Chapter_5/Mine/Hardware_Picture_modified.pdf>]
+<figures/Chapter_5/Mine/BalancedSwell_No_IL.pdf, id=4326, 417.81094pt x 295.102
+5pt>
+File: figures/Chapter_5/Mine/BalancedSwell_No_IL.pdf Graphic file (type pdf)
+<use figures/Chapter_5/Mine/BalancedSwell_No_IL.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/BalancedSwell_No_IL.pdf  used o
+n input line 597.
+(pdftex.def)             Requested size: 417.80992pt x 295.10176pt.
+
+Overfull \hbox (0.69249pt too wide) in paragraph at lines 597--598
+ [][] 
+ []
+
+<figures/Chapter_5/Mine/UnbalancedSag1_No_IL.pdf, id=4327, 417.81094pt x 266.49
+562pt>
+File: figures/Chapter_5/Mine/UnbalancedSag1_No_IL.pdf Graphic file (type pdf)
+<use figures/Chapter_5/Mine/UnbalancedSag1_No_IL.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/UnbalancedSag1_No_IL.pdf  used 
+on input line 603.
+(pdftex.def)             Requested size: 417.80992pt x 266.49496pt.
+
+Overfull \hbox (0.69249pt too wide) in paragraph at lines 603--604
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [120]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [121 <./figures/Chapter_5/Mine/BalancedSag.pdf>]
+
+LaTeX Warning: Text page 122 contains only floats.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [122 <./figures/Chapter_5/Mine/BalancedSwell_No_IL.pdf> <./figures/Chapter_5/M
+ine/UnbalancedSag1_No_IL.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_5/Mine/UnbalancedSag1_No_I
+L.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/Chapter_5/Mine/UnbalancedSwell2_No_IL.pdf, id=4437, 417.81094pt x 296.
+60812pt>
+File: figures/Chapter_5/Mine/UnbalancedSwell2_No_IL.pdf Graphic file (type pdf)
+
+<use figures/Chapter_5/Mine/UnbalancedSwell2_No_IL.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/UnbalancedSwell2_No_IL.pdf  use
+d on input line 618.
+(pdftex.def)             Requested size: 417.80992pt x 296.60739pt.
+
+Overfull \hbox (0.69249pt too wide) in paragraph at lines 618--619
+ [][] 
+ []
+
+<figures/Chapter_5/Mine/Various_modes.pdf, id=4438, 417.81094pt x 208.52907pt>
+File: figures/Chapter_5/Mine/Various_modes.pdf Graphic file (type pdf)
+<use figures/Chapter_5/Mine/Various_modes.pdf>
+Package pdftex.def Info: figures/Chapter_5/Mine/Various_modes.pdf  used on inpu
+t line 624.
+(pdftex.def)             Requested size: 417.80992pt x 208.52855pt.
+
+Overfull \hbox (0.69249pt too wide) in paragraph at lines 624--625
+ [][] 
+ []
+
+[123] [124 <./figures/Chapter_5/Mine/UnbalancedSwell2_No_IL.pdf> <./figures/Cha
+pter_5/Mine/Various_modes.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_5/Mine/Various_modes.pdf):
+ PDF inclusion: multiple pdfs with page group included in a single page
+>] [125]) (Chapters/chapter6.tex [126]
+CHAPTER 6.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 8.
+
+File: figures/Chapter_6/Mine/4leg_UPQC_L.pdf Graphic file (type pdf)
+<use figures/Chapter_6/Mine/4leg_UPQC_L.pdf>
+Package pdftex.def Info: figures/Chapter_6/Mine/4leg_UPQC_L.pdf  used on input 
+line 10.
+(pdftex.def)             Requested size: 526.96745pt x 250.68594pt.
+[127
+
+] [128]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 24.
+
+<figures/Chapter_6/Mine/Control_Diagram.pdf, id=4554, 787.44188pt x 408.77719pt
+>
+File: figures/Chapter_6/Mine/Control_Diagram.pdf Graphic file (type pdf)
+<use figures/Chapter_6/Mine/Control_Diagram.pdf>
+Package pdftex.def Info: figures/Chapter_6/Mine/Control_Diagram.pdf  used on in
+put line 26.
+(pdftex.def)             Requested size: 708.69115pt x 367.89606pt.
+
+Overfull \hbox (32.65364pt too wide) in paragraph at lines 26--27
+ [][] 
+ []
+
+[129] [130 <./figures/Chapter_6/Mine/Control_Diagram.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [131]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 51.
+
+<figures/Chapter_6/Mine/NPV_Calculations.pdf, id=4681, 415.5525pt x 137.01187pt
+>
+File: figures/Chapter_6/Mine/NPV_Calculations.pdf Graphic file (type pdf)
+<use figures/Chapter_6/Mine/NPV_Calculations.pdf>
+Package pdftex.def Info: figures/Chapter_6/Mine/NPV_Calculations.pdf  used on i
+nput line 53.
+(pdftex.def)             Requested size: 415.55148pt x 137.01154pt.
+[132 <./figures/Chapter_6/Mine/NPV_Calculations.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [133]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [134]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [135]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 155.
+
+[136]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 178.
+
+<figures/Chapter_6/Mine/Res1.pdf, id=4772, 964.35281pt x 280.04625pt>
+File: figures/Chapter_6/Mine/Res1.pdf Graphic file (type pdf)
+<use figures/Chapter_6/Mine/Res1.pdf>
+Package pdftex.def Info: figures/Chapter_6/Mine/Res1.pdf  used on input line 17
+9.
+(pdftex.def)             Requested size: 694.3335pt x 201.63313pt.
+
+Overfull \hbox (18.29599pt too wide) in paragraph at lines 179--180
+ [][] 
+ []
+
+<figures/Chapter_6/Mine/Res2.pdf, id=4773, 964.35281pt x 280.04625pt>
+File: figures/Chapter_6/Mine/Res2.pdf Graphic file (type pdf)
+<use figures/Chapter_6/Mine/Res2.pdf>
+Package pdftex.def Info: figures/Chapter_6/Mine/Res2.pdf  used on input line 18
+2.
+(pdftex.def)             Requested size: 694.3335pt x 201.63313pt.
+
+Overfull \hbox (18.29599pt too wide) in paragraph at lines 182--183
+ [][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 186.
+
+<figures/Chapter_6/Mine/Res3.pdf, id=4774, 964.35281pt x 280.04625pt>
+File: figures/Chapter_6/Mine/Res3.pdf Graphic file (type pdf)
+<use figures/Chapter_6/Mine/Res3.pdf>
+Package pdftex.def Info: figures/Chapter_6/Mine/Res3.pdf  used on input line 18
+7.
+(pdftex.def)             Requested size: 694.3335pt x 201.63313pt.
+
+Overfull \hbox (18.29599pt too wide) in paragraph at lines 187--188
+ [][] 
+ []
+
+<figures/Chapter_6/Mine/Res5.pdf, id=4775, 948.54375pt x 203.25937pt>
+File: figures/Chapter_6/Mine/Res5.pdf Graphic file (type pdf)
+<use figures/Chapter_6/Mine/Res5.pdf>
+Package pdftex.def Info: figures/Chapter_6/Mine/Res5.pdf  used on input line 19
+0.
+(pdftex.def)             Requested size: 682.95097pt x 146.34662pt.
+
+Overfull \hbox (6.91347pt too wide) in paragraph at lines 190--191
+ [][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 197.
+
+<figures/Chapter_6/Mine/Res4.pdf, id=4780, 508.90125pt x 280.04625pt>
+File: figures/Chapter_6/Mine/Res4.pdf Graphic file (type pdf)
+<use figures/Chapter_6/Mine/Res4.pdf>
+Package pdftex.def Info: figures/Chapter_6/Mine/Res4.pdf  used on input line 19
+9.
+(pdftex.def)             Requested size: 407.12155pt x 224.0373pt.
+[137] [138 <./figures/Chapter_6/Mine/Res1.pdf> <./figures/Chapter_6/Mine/Res2.p
+df
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_6/Mine/Res2.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+>] [139 <./figures/Chapter_6/Mine/Res3.pdf> <./figures/Chapter_6/Mine/Res5.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Chapter_6/Mine/Res5.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [140 <./figures/Chapter_6/Mine/Res4.pdf>]) (Chapters/chapter7.tex [141] [142
+
+]
+CHAPTER 7.
+[143]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [144]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [145]
+[146] [147]) (Appendix/Appendix_1.tex [148]
+APPENDIX A.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 8.
+
+<figures/Appendix/4leg_DSTATCOM1.pdf, id=5088, 563.85657pt x 250.68657pt>
+File: figures/Appendix/4leg_DSTATCOM1.pdf Graphic file (type pdf)
+<use figures/Appendix/4leg_DSTATCOM1.pdf>
+Package pdftex.def Info: figures/Appendix/4leg_DSTATCOM1.pdf  used on input lin
+e 9.
+(pdftex.def)             Requested size: 405.97643pt x 180.49417pt.
+[149
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [150 <./figures/Appendix/4leg_DSTATCOM1.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 31.
+
+<figures/Appendix/4leg_DVR1.pdf, id=5152, 700.11563pt x 299.61937pt>
+File: figures/Appendix/4leg_DVR1.pdf Graphic file (type pdf)
+<use figures/Appendix/4leg_DVR1.pdf>
+Package pdftex.def Info: figures/Appendix/4leg_DVR1.pdf  used on input line 32.
+
+(pdftex.def)             Requested size: 420.07262pt x 179.77301pt.
+
+Overfull \hbox (2.95518pt too wide) in paragraph at lines 32--33
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [151 <./figures/Appendix/4leg_DVR1.pdf>]) (Appendix/Appendix_2.tex [152]
+APPENDIX B.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 4.
+
+<figures/Appendix/TF_Config.pdf, id=5223, 441.14813pt x 130.23656pt>
+File: figures/Appendix/TF_Config.pdf Graphic file (type pdf)
+<use figures/Appendix/TF_Config.pdf>
+Package pdftex.def Info: figures/Appendix/TF_Config.pdf  used on input line 5.
+(pdftex.def)             Requested size: 330.86028pt x 97.67717pt.
+[153
+
+ <./figures/Appendix/TF_Config.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 12.
+
+<figures/Appendix/3leg_DVR.pdf, id=5262, 590.205pt x 295.1025pt>
+File: figures/Appendix/3leg_DVR.pdf Graphic file (type pdf)
+<use figures/Appendix/3leg_DVR.pdf>
+Package pdftex.def Info: figures/Appendix/3leg_DVR.pdf  used on input line 13.
+(pdftex.def)             Requested size: 424.94727pt x 212.47362pt.
+
+Overfull \hbox (7.82983pt too wide) in paragraph at lines 13--14
+ [][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 20.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 40.
+
+<figures/Appendix/Res1.pdf, id=5266, 831.85782pt x 117.43875pt>
+File: figures/Appendix/Res1.pdf Graphic file (type pdf)
+<use figures/Appendix/Res1.pdf>
+Package pdftex.def Info: figures/Appendix/Res1.pdf  used on input line 41.
+(pdftex.def)             Requested size: 665.48717pt x 93.95111pt.
+<figures/Appendix/Res2.pdf, id=5267, 827.34094pt x 182.18062pt>
+File: figures/Appendix/Res2.pdf Graphic file (type pdf)
+<use figures/Appendix/Res2.pdf>
+Package pdftex.def Info: figures/Appendix/Res2.pdf  used on input line 45.
+(pdftex.def)             Requested size: 661.87366pt x 145.74467pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [154 <./figures/Appendix/3leg_DVR.pdf>] [155 <./figures/Appendix/Res1.pdf> <./
+figures/Appendix/Res2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Appendix/Res2.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 53.
+
+<figures/Appendix/Res3.pdf, id=5404, 827.34094pt x 182.18062pt>
+File: figures/Appendix/Res3.pdf Graphic file (type pdf)
+<use figures/Appendix/Res3.pdf>
+Package pdftex.def Info: figures/Appendix/Res3.pdf  used on input line 54.
+(pdftex.def)             Requested size: 579.13472pt x 127.52554pt.
+<figures/Appendix/Res4.pdf, id=5405, 827.34094pt x 263.48438pt>
+File: figures/Appendix/Res4.pdf Graphic file (type pdf)
+<use figures/Appendix/Res4.pdf>
+Package pdftex.def Info: figures/Appendix/Res4.pdf  used on input line 58.
+(pdftex.def)             Requested size: 579.13472pt x 184.43779pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 62.
+
+<figures/Appendix/Res5.pdf, id=5406, 827.34094pt x 263.48438pt>
+File: figures/Appendix/Res5.pdf Graphic file (type pdf)
+<use figures/Appendix/Res5.pdf>
+Package pdftex.def Info: figures/Appendix/Res5.pdf  used on input line 63.
+(pdftex.def)             Requested size: 661.87366pt x 210.78777pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [156]
+[157 <./figures/Appendix/Res3.pdf> <./figures/Appendix/Res4.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/Appendix/Res4.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>] [158 <./figures/Appendix/Res5.pdf>]) (thesis.bbl [159] [160] [161
+
+] [162]
+[163] [164] [165] [166] [167] [168] [169] [170] [171] [172]) [173] (thesis.aux)
+ ) 
+Here is how much of TeX's memory you used:
+ 61443 strings out of 476331
+ 1537158 string characters out of 5797580
+ 2150636 words of memory out of 5000000
+ 80285 multiletter control sequences out of 15000+600000
+ 583429 words of font info for 146 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 87i,18n,90p,2038b,1662s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Progr
+am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Program Files/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/
+Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/c
+mextra/cmmib7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
+ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.
+pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Progr
+am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX/font
+s/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utm
+bi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program 
+Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (200 pages, 6962488 bytes).
+PDF statistics:
+ 6163 PDF objects out of 6186 (max. 8388607)
+ 689 named destinations out of 1000 (max. 500000)
+ 1092 words of extra memory for PDF output out of 10000 (max. 10000000)
+
